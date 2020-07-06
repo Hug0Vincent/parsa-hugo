@@ -1,9 +1,9 @@
 +++
-categories = ["consultation", "prestation"]
+categories = ["prestation"]
 date = ""
 description = ""
 image = "/images/img_4025.jpg"
-tags = ["nathuropathie"]
+tags = ["nathuropathie", "consultation"]
 title = "La consultation Nathuropathique"
 type = "post"
 
