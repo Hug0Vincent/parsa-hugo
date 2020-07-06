@@ -2,7 +2,6 @@
 categories = ["prestation"]
 date = 2020-07-05T22:00:00Z
 description = ""
-draft = true
 image = "/images/img_8139.jpg"
 tags = ["nathuropathie", "consultation"]
 title = "Le bilan irodologique"
