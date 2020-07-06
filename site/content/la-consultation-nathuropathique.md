@@ -24,7 +24,9 @@ La disparition naturelle des symptômes est la conséquence de la régénératio
 * De mettre en place un plan d'action avec un objectif précis (cure, utilisations des outils naturopathiques),
 * D’amener la personne à une compréhension de son fonctionnement et à une autonomie dans la gestion de sa santé.
 
-Nous sommes les propres acteurs de notre santé et de notre bien-être. Pour aider à retrouver, maintenir santé, harmonie et bien-être le naturopathe s’appuie sur un choix raisonné parmi les 10 techniques naturopathiques, véritable « boîte à outils », qui permettent de construire ensemble un plan adapté : l’alimentation ou hygiène nutritionnelle, la psychologie ou
+##### Nous sommes les propres acteurs de notre santé et de notre bien-être. 
+
+Pour aider à retrouver, maintenir santé, harmonie et bien-être le naturopathe s’appuie sur un choix raisonné parmi les 10 techniques naturopathiques, véritable « boîte à outils », qui permettent de construire ensemble un plan adapté : l’alimentation ou hygiène nutritionnelle, la psychologie ou
 
 l’hygiène neuro-psychique, l’exercice physique ou hygiène musculaire, les plantes, les techniques respiratoires, la réflexologie, ... Au terme de chaque consultation, un programme d’hygiène vital est remis ou envoyé. Le naturopathe iridologue ne pratique aucun diagnostic médical et les techniques proposées ne se substituent à aucun traitement médical ou suivi psychologique.
 
