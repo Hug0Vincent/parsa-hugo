@@ -28,5 +28,6 @@ fields:
   description: 'type: post or featured'
 pages:
 - site/content/la-consultation-nathuropathique.md
+- site/content/la-reflexologe-plantaire.md
 - site/content/la-reflexologie-auriculaire-ou-auriculotherapie.md
 - site/content/le-bilan-irodologique.md
