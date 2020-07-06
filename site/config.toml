@@ -1,9 +1,9 @@
 baseURL = "https://naturopathie.netlify.app"
-languageCode = "en-us"
+languageCode = "fr-fr"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Happy Naturo pattes"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -16,13 +16,13 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
-author = "Themefisher"
+author = "Catherine Namèche"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
-contact_form_action = "mailto:hugo---vincent@hotmail.fr"
+bio = "La naturopathie - L’Homme - L’Animal\nPrenez votre santé et celle de vos animaux domestiques en main."
+contact_form_action = "mailto:Catherine Namèche"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
-email = "exmaple@ymail.com"
+email = "Catherine Namèche"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
@@ -32,7 +32,7 @@ preloader = true
 search = true
 [params.instafeed]
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
-enable = true
+enable = false
 user_id = "4044026246"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
