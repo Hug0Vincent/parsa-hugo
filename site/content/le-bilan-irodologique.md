@@ -12,25 +12,21 @@ type = "featured"
 
 L’iridologie est pratiquée depuis la nuit des temps, c’est une technique de bilan par l'examen de la partie colorée de l'oeil : l’iris. En effet, l’iris est une zone de projection de tout le corps, chaque organe, et son état, s’y trouve représenté selon son état. Chaque paramètre des deux iris est donc pris en considération. L’œil se comporte comme une carte d’identité du corps. Dans les yeux se manifeste l’état nerveux des tissus, des glandes, des organes, de l’organisme.
 
-##### Bilan synthétique inclus dans la première consultation naturopathique 
+##### Bilan synthétique inclus dans la première consultation naturopathique
 
-La vocation première du bilan iridologique est de réaliser un bilan de terrain à la recherche des éléments à la base du raisonnement naturopathique que l’on nomme « indices de vitalité », ils sont au
+La vocation première du bilan iridologique est de réaliser un bilan de terrain à la recherche des éléments à la base du raisonnement naturopathique que l’on nomme « indices de vitalité », ils sont au nombre de trois :
 
-nombre de trois :
+- Valeur de la force vitale
 
-• Valeur de la force vitale
+- Valeur et qualité des surcharges (types, quantité et localisation des toxines de notre organisme)
 
-• Valeur et qualité des surcharges (types, quantité et localisation des toxines de notre organisme)
-
-• Perméabilité des émonctoires (organes qui nous permettent
-
-d’éliminer nos « déchets »)
+- Perméabilité des émonctoires (organes qui nous permettent d’éliminer nos « déchets »)
 
 Ce bilan iridologique permet, associé aux autres bilans d’établir les conseils les plus personnalisés.
 
 ##### Un bilan iridologique approfondi.
 
-A partir de clichés, tous les éléments de chacun des iris et du pourtour des iris sont analysés, notamment la texture, la pigmentation et la ou les couleurs, la tonicité, le relief, les éventuels dépôts, ... 
+A partir de clichés, tous les éléments de chacun des iris et du pourtour des iris sont analysés, notamment la texture, la pigmentation et la ou les couleurs, la tonicité, le relief, les éventuels dépôts, ...
 
 Un bilan écrit est fourni à l’issu de ce travail : analyse détaillée, conclusions, grandes lignes de conseils naturopathiques. Cette recherche plus avancée permet de déterminer des tendances générales de fonctionnement physiologique, le statut du système nerveux, du système sanguin, mais également l’hérédité, les faiblesses organiques prédisposant à certaines pathologies, le tempérament de la personne ou diathèse, ...
 
