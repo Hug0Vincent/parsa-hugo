@@ -1,5 +1,5 @@
 baseURL = "https://naturopathie.netlify.app"
-languageCode = "fr-fr"
+languageCode = "fr-FR"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
