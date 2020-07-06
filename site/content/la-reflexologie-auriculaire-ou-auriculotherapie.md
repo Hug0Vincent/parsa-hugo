@@ -4,7 +4,7 @@ date = 2020-07-05T22:00:00Z
 description = ""
 image = "/images/img_8021.jpg"
 tags = ["nathuropthie", "consultation"]
-title = "La réflexologie auriculaire ou auriculothérapie"
+title = "L'auriculothérapie"
 type = "featured"
 
 +++
