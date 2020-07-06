@@ -14,10 +14,9 @@ Les huiles essentielles, quintessences des plantes aromatiques qui peuplent notr
 
 ##### Prestations :
 
-* Au cabinet : approche aromathérapique lors d’une consultation naturopathique
-* Au cabinet : consultation en aromathérapie : 50 euros
-* En entreprise/collectivité (devis à la 1/2 journée sur demande) : 
+- Au cabinet : approche aromathérapique lors d’une consultation naturopathique
+- Au cabinet : consultation en aromathérapie : 50 euros
+- En entreprise/collectivité (devis à la 1/2 journée sur demande) : 
+* utilisation judicieuse des huiles essentielles dans l’entreprise ou la collectivité (désinfection des locaux, stimulation de l’éveil, détente, prévention du stress, de la fatigue, gestion des émotions, ...) ; 
 
-  • utilisation judicieuse des huiles essentielles dans l’entreprise ou la collectivité (désinfection des locaux, stimulation de l’éveil, détente, prévention du stress, de la fatigue, gestion des émotions, ...) ; 
-
-  • séminaires en petit groupes : thème à déterminer ensemble (par exemple : atelier découverte de l’aromathérapie, gestion du stress au travail, favoriser la concentration et l’énergie, ...).
+* séminaires en petit groupes : thème à déterminer ensemble (par exemple : atelier découverte de l’aromathérapie, gestion du stress au travail, favoriser la concentration et l’énergie, ...).
