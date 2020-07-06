@@ -21,43 +21,28 @@ Mon approche est préventive, éducative et globale mais surtout personnalisée 
 
 ### Mon parcours
 
-- Diplôme de vétérinaire (1998) ; Thèse pour le doctorat de vétérinaire (2000) ;
-
-- Formation en naturopathie et iridologie au CNR André Lafon (2017-2019) ;
-
-- Praticienne en aromathérapie (Fédération Française d’aromathérapie) (2020) ;
-
-- Certification en auriculothérapie (2019) ;
-
-- Certification en réflexologie plantaire (2019) ;
-
-- Suivi de formation en EFT et kinésiologie (2018-2019) ;
-
-- Membre adhérant du syndicat des professionnels de la naturopathie, de l’APNF
+1. Diplôme de vétérinaire (1998) ; Thèse pour le doctorat de vétérinaire (2000) ;
+2. Formation en naturopathie et iridologie au CNR André Lafon (2017-2019) ;
+3. Praticienne en aromathérapie (Fédération Française d’aromathérapie) (2020) ;
+4. Certification en auriculothérapie (2019) ;
+5. Certification en réflexologie plantaire (2019) ;
+6. Suivi de formation en EFT et kinésiologie (2018-2019) ;
+7. Membre adhérant du syndicat des professionnels de la naturopathie, de l’APNF
 
 ### Mes « outils » préférés parmi la multitude des techniques naturopathiques
 
 Ils associent la rigueur de ma formation scientifique et médicale à l’apport de la nature :
 
-- La nutrition : « Ton alimentation sera ton premier médicament » Hippocrate ;
-
-- La micronutrition : art de combler nos carences en micronutriments (vitamines, minéraux, ...) ;
-
-- La chrono nutrition : fournir à son corps ce dont il a besoin au moment où il en a besoin ;
-
-- Les huiles essentielles : actions physiques et psychiques de ces extraits de la nature ;
-
-- Les plantes : les « simples » sont sources de vie et ont tant à nous apprendre ;
-
-- Les fleurs de Bach : encore et encore les subtilités que nous offre dame Nature ;
-
-- L’auriculothérapie : parce que chacun a le droit d’avoir ses maux soulagés ;
-
-- La réflexologie plantaire ; bien-être et soins ;
-
-- La cohérence cardiaque : afin de rééquilibrer notre système nerveux ;
-
-- EFT, kinésiologie, ... : techniques de thérapies brèves afin de réconcilier corps et esprit ; ...
+* La nutrition : « Ton alimentation sera ton premier médicament » Hippocrate ;
+* La micronutrition : art de combler nos carences en micronutriments (vitamines, minéraux, ...) ;
+* La chrono nutrition : fournir à son corps ce dont il a besoin au moment où il en a besoin ;
+* Les huiles essentielles : actions physiques et psychiques de ces extraits de la nature ;
+* Les plantes : les « simples » sont sources de vie et ont tant à nous apprendre ;
+* Les fleurs de Bach : encore et encore les subtilités que nous offre dame Nature ;
+* L’auriculothérapie : parce que chacun a le droit d’avoir ses maux soulagés ;
+* La réflexologie plantaire ; bien-être et soins ;
+* La cohérence cardiaque : afin de rééquilibrer notre système nerveux ;
+* EFT, kinésiologie, ... : techniques de thérapies brèves afin de réconcilier corps et esprit ; ...
 
 Tous ces « outils » naturels nous permettent de trouver ensemble les solutions qui vous correspondent et qui vous permettent de retrouver santé, forme et bien-être.
 
