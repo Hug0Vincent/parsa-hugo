@@ -2,7 +2,7 @@
 categories = ["prestation"]
 date = 2020-07-05T22:00:00Z
 description = ""
-image = "/images/img_4025.jpg"
+image = "/images/img_8465.jpg"
 tags = ["nathuropathie", "consultation"]
 title = "La consultation Nathuropathique"
 type = "featured"
