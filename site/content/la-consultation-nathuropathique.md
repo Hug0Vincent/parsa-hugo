@@ -30,7 +30,7 @@ Pour aider à retrouver, maintenir santé, harmonie et bien-être le naturopathe
 
 l’hygiène neuro-psychique, l’exercice physique ou hygiène musculaire, les plantes, les techniques respiratoires, la réflexologie, ... Au terme de chaque consultation, un programme d’hygiène vital est remis ou envoyé. Le naturopathe iridologue ne pratique aucun diagnostic médical et les techniques proposées ne se substituent à aucun traitement médical ou suivi psychologique.
 
-Prestations :
+##### Prestations :
 
 * Première consultation (environ 1h30) : 60 euros
 * Consultation de suivi (environ 45 mns) : bilan, évolution, approfondissement éventuel d’une technique, ... : 50 euros
