@@ -3,7 +3,7 @@ categories = ["prestation"]
 date = 2020-07-05T22:00:00Z
 description = ""
 image = "/images/img_8021.jpg"
-tags = ["nathuropthie", "consultation"]
+tags = ["consultation"]
 title = "L'auriculothérapie"
 type = "featured"
 
