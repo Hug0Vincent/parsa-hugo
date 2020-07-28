@@ -8,7 +8,7 @@ title = "La consultation en aromacologie / olfactotherapie"
 type = "post"
 
 +++
-> « L’Olfactothérapie privilégie un sens habituellement négligé en thérapie : l’odorat. Elle propose donc d’y avoir recours comme voie principale d’accès à une évolution personnelle, comme chemin de guérison. » Alain Faniel 
+> « L’Olfactothérapie privilégie un sens habituellement négligé en thérapie : l’odorat. Elle propose donc d’y avoir recours comme voie principale d’accès à une évolution personnelle, comme chemin de guérison. » Alain Faniel
 
 ##### Que sont l’aromacologie et l’ofactothérapie?
 
@@ -20,7 +20,7 @@ Au-delà de la chimie, les huiles essentielles, ont aussi, comme tout ce qui nou
 
 ##### Comment cela fonctionne t-il ?
 
-Tout d’abord, chacune des huiles essentielles est porteuse d’un message. De plus, à la différence des autres sens, le nez et ses glandes olfactives sont reliés directement au cerveau primitif (siège de notre mémoire émotionnelle et de nos intuitions). Les odeurs que nous captons sont ainsi transmises directement à cette partie du cerveau sans être analysées par l’intellect. L’ofactothérapie privilégie donc le sens de l’odorat pour faciliter l’accès de la personne à sa mémoire émotionnelle. L’olfactothérapie nous met en connexion directe avec notre vécu singulier : les fils de notre mémoire se renouent peu à peu. L’odorat permet une communication privilégiée avec notre inconscient et toute cette part d’irrationnel en nous. Ainsi, l’olfactothérapie utilise les odeurs des huiles essentielles pour contacter les causes non conscientes de la souffrance et générer leur transformation. 
+Tout d’abord, chacune des huiles essentielles est porteuse d’un message. De plus, à la différence des autres sens, le nez et ses glandes olfactives sont reliés directement au cerveau primitif (siège de notre mémoire émotionnelle et de nos intuitions). Les odeurs que nous captons sont ainsi transmises directement à cette partie du cerveau sans être analysées par l’intellect. L’ofactothérapie privilégie donc le sens de l’odorat pour faciliter l’accès de la personne à sa mémoire émotionnelle. L’olfactothérapie nous met en connexion directe avec notre vécu singulier : les fils de notre mémoire se renouent peu à peu. L’odorat permet une communication privilégiée avec notre inconscient et toute cette part d’irrationnel en nous. Ainsi, l’olfactothérapie utilise les odeurs des huiles essentielles pour contacter les causes non conscientes de la souffrance et générer leur transformation.
 
 ##### Que peut-on faire avec l’aromacologie/l’olfactothérapie ?
 
