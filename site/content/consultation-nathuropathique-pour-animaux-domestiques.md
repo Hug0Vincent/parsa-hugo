@@ -39,8 +39,6 @@ Ensemble, nous proposerons à votre animal de compagnie plus qu’un « remède 
   * Fleurs de Bach : les émotions de votre animal prennent ici toute leur importance ;
   * Homéopathie : stimule le corps afin qu’il se soigne lui même, basée sur la loi de la similitude entre les manifestations du corps et le remède ;
   * Micro-nutrition/Oligothérapie : apporter à votre animal tous les micro-éléments essentiels au bon fonctionnement de son organisme ; ...
-
-
 * Des conseils en parallèle du suivi médical chez votre vétérinaire.
 
 Je ne réalise aucun diagnostic ni manipulation physique et ne prescris aucun traitement médical. La consultation naturopathique ne se substitue pas à une consultation vétérinaire. Les conseils prodigués ne supposent en aucun cas l’arrêt d’un traitement mis en place par un vétérinaire ni ne remplace le suivi habituel de votre animal chez son vétérinaire référent.
