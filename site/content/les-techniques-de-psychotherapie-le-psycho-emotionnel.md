@@ -20,13 +20,13 @@ L’EFT est efficace dans de nombreuses situations : colère, angoisse, chagrin,
 
 respiratoire particulier La cohérence cardiaque c'est un état optimal dans lequel le coeur, l'esprit et les émotions sont alignés et synchronisés. Physiologiquement les systèmes immunitaires, hormonaux et nerveux fonctionnent de manière coordonnée et harmonieuse.
 
-C’est une technique respiratoire très simple à réaliser et à mettre en oeuvre. Elle peut être pratiquée par tout le monde, n’importe où et ne prend que quelques minutes par jour. 
+C’est une technique respiratoire très simple à réaliser et à mettre en oeuvre. Elle peut être pratiquée par tout le monde, n’importe où et ne prend que quelques minutes par jour.
 
-##### Les élixirs floraux de Bach 
+##### Les élixirs floraux de Bach
 
 La technique des fleurs de Bach est une approche globale de l’être. Mis au point dans les années 30 par le médecin homéopathe Edward Bach, qui considérait que chaque émotion négative pouvait se transformer en maladie, chacun des 38 élixirs floraux de Bach répond à un état d’esprit particulier (peur, solitude, découragement, incertitude, ...) et vise au rééquilibrage émotionnel. Le naturopathe procède à un bilan émotionnel personnalisé, afin de confectionner un mélange d’élixirs approprié.
 
-Tous ces outils peuvent se pratiquer en autonomie après avoir été vus en consultation : nous sommes ainsi les propres acteurs de notre santé et de notre bien-être. 
+Tous ces outils peuvent se pratiquer en autonomie après avoir été vus en consultation : nous sommes ainsi les propres acteurs de notre santé et de notre bien-être.
 
 Le Naturopathe n’est pas psychologue. Toutefois, il pourra utiliser lors de la consultation différents outils : EFT, kinésiologie, relaxation, élixirs floraux de Bach, ... et/ou conseiller un accompagnement avec un autre professionnel (psychothérapeute, psychologue, sophrologue, hypnothérapeute, art-thérapeute, ...).
 
