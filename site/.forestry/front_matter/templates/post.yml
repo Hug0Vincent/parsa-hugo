@@ -27,6 +27,7 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- site/content/la-consultation-en-aromacologie-olfactotherapie.md
 - site/content/la-consultation-en-aromatherapie.md
 - site/content/la-consultation-nathuropathique.md
 - site/content/la-reflexologe-plantaire.md
