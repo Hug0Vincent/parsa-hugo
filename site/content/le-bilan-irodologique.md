@@ -6,6 +6,7 @@ image = "/images/img_8139.jpg"
 tags = ["nathuropathie", "consultation"]
 title = "Le bilan irodologique"
 type = "post"
+weight = 3
 
 +++
 > « Tel sont les yeux, tel est le corps » Hippocrate

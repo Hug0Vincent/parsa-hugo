@@ -6,6 +6,7 @@ image = "/images/img_4767-2.jpg"
 tags = ["nathuropathie", "consultation"]
 title = "La consultation en aromacologie / olfactotherapie"
 type = "post"
+weight = 5
 
 +++
 > « L’Olfactothérapie privilégie un sens habituellement négligé en thérapie : l’odorat. Elle propose donc d’y avoir recours comme voie principale d’accès à une évolution personnelle, comme chemin de guérison. » Alain Faniel

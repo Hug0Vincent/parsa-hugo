@@ -6,6 +6,7 @@ image = "/images/img_7192.jpg"
 tags = ["nathuropathie", "consultation"]
 title = "La reflexologe plantaire"
 type = "post"
+weight = 7
 
 +++
 > « Là où se trouve les pieds commence le voyage » Lao Tseu

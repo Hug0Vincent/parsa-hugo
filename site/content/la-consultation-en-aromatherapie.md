@@ -6,6 +6,7 @@ image = "/images/img_1233.jpg"
 tags = ["nathuropathie"]
 title = "La consultation en aromatherapie"
 type = "post"
+weight = 4
 
 +++
 L'aromathérapie est l’art de soigner par les huiles essentielles de façon globale, elle est également utilisée pour le confort et le bien-être.

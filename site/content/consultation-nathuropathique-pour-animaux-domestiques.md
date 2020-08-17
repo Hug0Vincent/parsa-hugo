@@ -6,6 +6,7 @@ image = "/images/img_4025.jpg"
 tags = ["nathuropathie", "consultation"]
 title = "Consultation nathuropathique pour animaux domestiques"
 type = "post"
+weight = 2
 
 +++
 > « La grandeur d'une nation et son progrès moral peuvent être jugés à la façon dont elle traite ses animaux. Je suis d'avis que plus une créature est faible, plus elle est en droit d'être protégée par l'homme de sa propre cruauté. » Gandhi

@@ -6,6 +6,7 @@ image = "/images/img_7842.jpg"
 tags = ["nathuropathie", "consultation"]
 title = "Les Techniques de psychotherapie : le psycho-emotionnel"
 type = "post"
+weight = 8
 
 +++
 > « N’oublions pas que les petites émotions sont les grands capitaines de nos vies et qu’à celles là nous obéissons sans le savoir » Vincent Van Gogh

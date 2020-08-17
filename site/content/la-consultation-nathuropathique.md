@@ -6,6 +6,7 @@ image = "/images/img_8465.jpg"
 tags = ["nathuropathie", "consultation"]
 title = "La consultation Nathuropathique"
 type = "post"
+weight = 1
 
 +++
 > « Un voyage de mille lieues commence toujours par un premier pas » Lao Tseu

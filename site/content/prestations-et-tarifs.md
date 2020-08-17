@@ -6,6 +6,7 @@ image = "/images/img_1457.jpg"
 tags = ["nathuropathie", "tarif"]
 title = "Prestations et tarifs"
 type = "post"
+weight = 9
 
 +++
 ##### {{< hl-text main >}}En individuel{{< /hl-text >}}

@@ -6,6 +6,7 @@ image = "/images/img_8021.jpg"
 tags = ["consultation"]
 title = "L'auriculothérapie"
 type = "post"
+weight = 6
 
 +++
 > « La science, c’est étonnement de ce que les choses sont ce qu’elles sont » Aristote
