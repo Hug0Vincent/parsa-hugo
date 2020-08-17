@@ -6,7 +6,7 @@ theme = "parsa-hugo"
 title = "Happy Naturo pattes"
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "À propos"
 weight = 2
 [[menu.main]]
 URL = "contact"
