@@ -1,6 +1,6 @@
 +++
 categories = ["prestation"]
-date = 2020-07-26T23:00:00Z
+date = 2020-06-29T23:00:00Z
 description = ""
 image = "/images/img_7842.jpg"
 tags = ["nathuropathie", "consultation"]
