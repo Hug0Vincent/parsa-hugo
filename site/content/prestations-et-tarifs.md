@@ -1,6 +1,6 @@
 +++
 categories = ["tarif"]
-date = 2020-07-27T22:00:00Z
+date = 2020-07-09T22:00:00Z
 description = "Description des tarifs."
 image = "/images/img_1457.jpg"
 tags = ["nathuropathie", "tarif"]
@@ -8,7 +8,6 @@ title = "Prestations et tarifs"
 type = "post"
 
 +++
-
 ##### {{< hl-text main >}}En individuel{{< /hl-text >}}
 
 * Séance de réflexologie auriculaire (environ 45 minutes) : 45 euros.
