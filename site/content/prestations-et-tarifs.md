@@ -8,11 +8,10 @@ title = "Prestations et tarifs"
 type = "post"
 
 +++
-#### Prestations et tarifs.
 
-##### En individuel
+##### {{< hl-text main >}}En individuel{{< /hl-text >}}
 
-* Séance de réflexologie auriculaire (environ 45 minutes) : 45 euros
+* Séance de réflexologie auriculaire (environ 45 minutes) : 45 euros.
 * Consultation Naturopathique au cabinet ou par Skype :
   * Première consultation (environ 1h30) : 60 euros
   * Consultations de suivi (environ 1h) : 50 euros
@@ -20,14 +19,14 @@ type = "post"
 * Bilan iridologique complet au cabinet ou à distance : 40 euros
 * Consultation d’aromathérapie/olfactothérapie (environ 1h) : 50 euros
 
-##### En ateliers : tarifs en fonction du thème
+##### {{< hl-text main >}}En ateliers : tarifs en fonction du thème{{< /hl-text >}}
 
 * En petits groupes, à la Chapelle aux Filtzméens, au milieu de la nature et des animaux. Ateliers pratiques, interactifs, avec participations de chacun.
 * Pour enfants (8-12 ans) : pendant 1 à 2h pendant les vacances scolaires, thèmes et activités en lien avec l’âge
 * Pour adolescents (12-15 ans) : en 1/2 journée pendant les vacances scolaires, thèmes et activités en lien avec l’âge
 * Pour adultes : durée et thèmes variables
 
-##### Naturopathie pour animaux :
+##### {{< hl-text main >}}Naturopathie pour animaux :{{< /hl-text >}}
 
 Consultation à domicile (rayon de 30 kms autour de Combourg) : 60 euros (1heure)
 

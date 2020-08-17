@@ -11,7 +11,7 @@ type = "post"
 > « La grandeur d'une nation et son progrès moral peuvent être jugés à la façon dont elle traite ses animaux. Je suis d'avis que plus une créature est faible, plus elle est en droit d'être protégée par l'homme de sa propre cruauté. » Gandhi
 
 
-##### Pourquoi la naturopathie pour nos animaux de compagnie ?
+##### {{< hl-text main >}}Pourquoi la naturopathie pour nos animaux de compagnie ?{{< /hl-text >}}
 
 Ensemble, nous proposerons à votre animal de compagnie plus qu’un « remède » naturel :
 
@@ -22,14 +22,14 @@ Ensemble, nous proposerons à votre animal de compagnie plus qu’un « remède 
 * Nous accompagnerons une pathologie aiguë ou chronique diagnostiquée par votre vétérinaire en complément du traitement allopathique mis en place,
 * Comme pour l’humain, nous chercherons l’origine des maux afin d’agir sur eux.
 
-##### La démarche :
+##### {{< hl-text main >}}La démarche :{{< /hl-text >}}
 
 * Une prise en charge holistique de l’animal ;
 * Une prise en compte de l’individualité de votre animal, de son passé, de son tempérament, de son contexte médical, de sa relation avec son environnement (famille, lieu de vie, ...), ...;
 * Une complémentarité avec le suivi vétérinaire et les traitements allopathiques prescrits ;
 * De la bienveillance, de la patience et du respect.
 
-##### Les moyens :
+##### {{< hl-text main >}}Les moyens :{{< /hl-text >}}
 
 * Un entretien qui prend en compte l’animal, son tempérament, son histoire, son historique médical, son environnement, la famille entière,
 * La rédaction d’un programme de conseils dans lequel seront associées différentes techniques naturopathiques adaptées à votre animal :
@@ -44,7 +44,7 @@ Ensemble, nous proposerons à votre animal de compagnie plus qu’un « remède 
 
 Je ne réalise aucun diagnostic ni manipulation physique et ne prescris aucun traitement médical. La consultation naturopathique ne se substitue pas à une consultation vétérinaire. Les conseils prodigués ne supposent en aucun cas l’arrêt d’un traitement mis en place par un vétérinaire ni ne remplace le suivi habituel de votre animal chez son vétérinaire référent.
 
-##### Tarifs :
+##### {{< hl-text main >}}Tarifs :{{< /hl-text >}}
 
 * Consultation à domicile (rayon de 30 kms autour de Combourg) : 60 euros (1heure environ)
 * Conseils par Skype : 60 euros (1h)

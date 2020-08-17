@@ -28,7 +28,7 @@ Les grandes indications directes de l’auriculothérapie sont :
 
 La séance d’auriculothérapie peut être inscrite judicieusement dans l’ensemble du plan naturopathique ou être isolée pour un problème particulier. Quoiqu’il en soit, même si elle vient soulager des maux particuliers, elle s'inscrit toujours dans la démarche holistique de la naturopathie et vient rééquilibrer un déséquilibre général. Chaque séance en auriculothérapie est unique. Prévoir en moyenne 3 séances espacées de 2 à 3 semaines pour un mieux-être durable. 
 
-##### Prestations :
+##### {{< hl-text main >}}Prestations :{{< /hl-text >}}
 
 * Au cabinet : séance de réflexologie auriculaire (45 minutes à 1h) : 50 euros
 * En entreprise : séances individuelles de réflexologie auriculaire : tarif à la 1/2 journée (nous
