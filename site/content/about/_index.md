@@ -42,10 +42,17 @@ Ils associent la rigueur de ma formation scientifique et médicale à l’apport
 * L’auriculothérapie : parce que chacun a le droit d’avoir ses maux soulagés ;
 * La réflexologie plantaire ; bien-être et soins ;
 * La cohérence cardiaque : afin de rééquilibrer notre système nerveux ;
-* EFT, kinésiologie, ... : techniques de thérapies brèves afin de réconcilier corps et esprit ; ...
+* EFT, kinésiologie, ... : techniques de thérapies brèves afin de réconcilier corps et esprit ; 
+* ...
 
 Tous ces « outils » naturels nous permettent de trouver ensemble les solutions qui vous correspondent et qui vous permettent de retrouver santé, forme et bien-être.
 
 ### Mes sujets de prédilection :
 
-L’appareil digestif et l’alimentation saine ; le sommeil et la gestion du stress ; les troubles musculo-squeletiques ; les inflammatoires chroniques ; la prise en charge du vieillissement ; notre relation à notre environnement ; ...
+* L’appareil digestif et l’alimentation saine ;
+* le sommeil et la gestion du stress ; 
+* les troubles musculo-squeletiques ; 
+* les inflammatoires chroniques ; 
+* la prise en charge du vieillissement ; 
+* notre relation à notre environnement ; 
+* ...

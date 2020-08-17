@@ -6,7 +6,7 @@ theme = "parsa-hugo"
 title = "Happy Naturo pattes"
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "À propos"
 weight = 2
 [[menu.main]]
 URL = "contact"
@@ -24,7 +24,7 @@ copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
 description = "This is meta description"
 email = "Catherine Namèche"
 google_analitycs_id = "Your ID"
-home = "Home"
+home = "Acceuil"
 layout = "1"
 logo = "images/logo.png"
 mobile = "+90 000 333 22"
