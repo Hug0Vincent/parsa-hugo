@@ -8,6 +8,7 @@ title = "Prestations et tarifs"
 type = "post"
 
 +++
+#### Prestations et tarifs.
 
 ##### En individuel
 
