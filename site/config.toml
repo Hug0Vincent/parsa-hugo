@@ -5,6 +5,10 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Happy Naturo pattes"
 [[menu.main]]
+URL = "prestations-tarifs"
+name = "prestations-tarifs"
+weight = ""
+[[menu.main]]
 URL = "about"
 name = "À propos"
 weight = 2
