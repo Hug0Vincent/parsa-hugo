@@ -13,7 +13,7 @@ weight = 3
 
 L’iridologie est pratiquée depuis la nuit des temps, c’est une technique de bilan par l'examen de la partie colorée de l'oeil : l’iris. En effet, l’iris est une zone de projection de tout le corps, chaque organe, et son état, s’y trouve représenté selon son état. Chaque paramètre des deux iris est donc pris en considération. L’œil se comporte comme une carte d’identité du corps. Dans les yeux se manifeste l’état nerveux des tissus, des glandes, des organes, de l’organisme.
 
-##### {{< hl-text main >}}Bilan synthétique inclus dans la première consultation naturopathique{{< /hl-text >}}
+##### Bilan synthétique inclus dans la première consultation naturopathique
 
 La vocation première du bilan iridologique est de réaliser un bilan de terrain à la recherche des éléments à la base du raisonnement naturopathique que l’on nomme « indices de vitalité », ils sont au nombre de trois :
 
@@ -25,7 +25,7 @@ La vocation première du bilan iridologique est de réaliser un bilan de terrain
 
 Ce bilan iridologique permet, associé aux autres bilans d’établir les conseils les plus personnalisés.
 
-##### {{< hl-text main >}}Un bilan iridologique approfondi.{{< /hl-text >}}
+##### Un bilan iridologique approfondi.
 
 A partir de clichés, tous les éléments de chacun des iris et du pourtour des iris sont analysés, notamment la texture, la pigmentation et la ou les couleurs, la tonicité, le relief, les éventuels dépôts, ...
 
@@ -33,7 +33,7 @@ Un bilan écrit est fourni à l’issu de ce travail : analyse détaillée, conc
 
 Attention : l’iridologie sert à à déterminer des tendances mais ne constitue en aucun cas un diagnostic médical. Il apporte cependant une aide précieuse au naturopathe pour orienter ses recherches afin de trouver la cause la plus profonde du trouble exprimé, pour comprendre le « fonctionnement » de la personne, pour reconnaître des dispositions, ...
 
-##### {{< hl-text main >}}Prestations :{{< /hl-text >}}
+##### Prestations :
 
 * Bilan synthétique lors de la première consultation naturopathique avec restitution verbale des principales conclusions (inclus dans le tarif de la première consultation).
 * Bilan approfondi : prise de clichés des 2 iris lors d’un rendez-vous ; restitution du bilan par mail/courrier et RDV téléphonique : 40 euros.
