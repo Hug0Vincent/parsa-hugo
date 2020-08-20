@@ -2,20 +2,40 @@
     text-align: center;
 }
 
-.color-main {
+.color-couleur1 {
     color: #99195e;
 }
 
-.color-second {
+.color-couleur2 {
     color: #cb297b
 }
 
-.highlight-text.main {
+.color-couleur3 {
+    color: #d9a9c3
+}
+
+.highlight-text.couleur1 {
     color: #99195e;
 }
 
-.highlight-text.second {
+.highlight-text.couleur2 {
     color: #cb297b;
+}
+
+.highlight-text.couleur3 {
+    color: #d9a9c3;
+}
+
+h4 {
+    color: #99195e;
+}
+
+h5 {
+    color: #cb297b;
+}
+
+h6 {
+    color: #d9a9c3;
 }
 
 /*
