@@ -31,6 +31,7 @@ google_analitycs_id = "Your ID"
 home = "Acceuil"
 layout = "1"
 logo = "images/logo.png"
+logoDesc = "images/logo-desc.png"
 mobile = "0781667339"
 preloader = true
 search = true
