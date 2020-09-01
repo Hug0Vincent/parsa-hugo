@@ -13,7 +13,15 @@ weight = 3
 
 ##### Qu'est-ce que l'iridologie ?
 
-L’iridologie est pratiquée depuis la nuit des temps, c’est une technique de bilan par l'examen de la partie colorée de l'oeil : l’iris. En effet, l’iris est une zone de projection de tout le corps, chaque organe, et son état, s’y trouve représenté selon son état. Chaque paramètre des deux iris est donc pris en considération. L’œil se comporte comme une carte d’identité du corps. Dans les yeux se manifeste l’état nerveux des tissus, des glandes, des organes, de l’organisme.
+L’iridologie est pratiquée depuis la nuit des temps, c’est une technique de bilan par l'examen de la partie colorée de l'oeil : l’iris. 
+
+En effet, l’iris est une zone de projection de tout le corps, chaque organe, et son état, s’y trouve représenté selon son état. 
+
+Chaque paramètre des deux iris est donc pris en considération. 
+
+**L’œil se comporte comme une carte d’identité du corps**. 
+
+**Dans les yeux se manifeste l’état nerveux des tissus, des glandes, des organes, de l’organisme.**
 
 ##### Bilan synthétique inclus dans la première consultation naturopathique
 
@@ -35,6 +43,6 @@ Attention : l’iridologie sert à à déterminer des tendances mais ne constitu
 
 ##### Prestations :
 
-* Bilan synthétique lors de la première consultation naturopathique avec restitution verbale des principales conclusions (inclus dans le tarif de la première consultation).
-* Bilan approfondi : prise de clichés des 2 iris lors d’un rendez-vous ; restitution du bilan par mail/courrier et RDV téléphonique : 40 euros.
-* A distance : analyse iridologique sur clichés envoyés (clichés de très bonne qualité éventuellement pris avec un smartphone) et restitution par mail et RDV téléphonique : 40 euros.
+* **_Bilan approfondi au cabinet_** : prise de clichés des 2 iris lors d’un rendez-vous ; restitution du bilan par mail/courrier et RDV téléphonique : 40 €.
+* **_Bilan synthétique lors de la première consultation naturopathique_** avec restitution verbale des principales conclusions (inclus dans le tarif de la première consultation).
+* **_A distance_** : analyse iridologique sur clichés envoyés (clichés de très bonne qualité) et restitution par mail et RDV téléphonique : 40 €.
