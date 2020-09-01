@@ -27,22 +27,22 @@ Comme pour l’humain, nous chercherons l’origine des maux afin d’agir sur e
 
 ##### La démarche :
 
-* ###### Une prise en charge holistique de l’animal ;
-* ###### Une prise en compte de l’individualité de votre animal ######, de son passé, de son tempérament, de son contexte médical, de sa relation avec son environnement (famille, lieu de vie, ...), ...;
-* ###### Une complémentarité avec le suivi vétérinaire ###### et les traitements allopathiques prescrits ;
-* ###### De la bienveillance ######, de la patience et du respect.
+* **Une prise en charge holistique** de l’animal ;
+* **Une prise en compte de l’individualité de votre animal,** de son passé, de son tempérament, de son contexte médical, de sa relation avec son environnement (famille, lieu de vie, ...), ...;
+* **Une complémentarité avec le suivi vétérinaire** et les traitements allopathiques prescrits ;
+* De la **bienveillance**, de la **patience** et du **respect**.
 
 ##### Les moyens :
 
 * Un entretien qui prend en compte l’animal, son tempérament, son histoire, son historique médical, son environnement, la famille entière,
 * La rédaction d’un programme de conseils dans lequel seront associées différentes techniques naturopathiques adaptées à votre animal :
-  * Aromathérapie : utilisation des huiles essentielles de façon sécuritaire pour votre animal ;
-  * Phytothérapie : utilisation des plantes essentiellement sous forme d’Extraits de Plantes Standardisés à prendre par voie orale ;
-  * Gemmothérapie : utilisation d’extraits de bourgeons, concentrés des principes actifs de la future plante à prendre par voie orale ;
-  * Conseils en comportement : le bien être de votre compagnon passe aussi par son éducation ;
-  * Fleurs de Bach : les émotions de votre animal prennent ici toute leur importance ;
-  * Homéopathie : stimule le corps afin qu’il se soigne lui même, basée sur la loi de la similitude entre les manifestations du corps et le remède ;
-  * Micro-nutrition/Oligothérapie : apporter à votre animal tous les micro-éléments essentiels au bon fonctionnement de son organisme ; ...
+  * {{< hl-text couleur3 >}}Aromathérapie{{< /hl-text >}} : utilisation des huiles essentielles de façon sécuritaire pour votre animal ;
+  * {{< hl-text couleur3 >}}Phytothérapie{{< /hl-text >}} : utilisation des plantes essentiellement sous forme d’Extraits de Plantes Standardisés à prendre par voie orale ;
+  * {{< hl-text couleur3 >}}Gemmothérapie{{< /hl-text >}} : utilisation d’extraits de bourgeons, concentrés des principes actifs de la future plante à prendre par voie orale ;
+  *  {{< hl-text couleur3 >}}Conseils en comportement{{< /hl-text >}} : le bien être de votre compagnon passe aussi par son éducation ;
+  * {{< hl-text couleur3 >}}Fleurs de Bach{{< /hl-text >}} : les émotions de votre animal prennent ici toute leur importance ;
+  * {{< hl-text couleur3 >}}Homéopathie{{< /hl-text >}} : stimule le corps afin qu’il se soigne lui même, basée sur la loi de la similitude entre les manifestations du corps et le remède ;
+  * {{< hl-text couleur3 >}}Micro-nutrition/Oligothérapie{{< /hl-text >}} : apporter à votre animal tous les micro-éléments essentiels au bon fonctionnement de son organisme ; ...
 * Des conseils en parallèle du suivi médical chez votre vétérinaire.
 
 Je ne réalise aucun diagnostic ni manipulation physique et ne prescris aucun traitement médical. La consultation naturopathique ne se substitue pas à une consultation vétérinaire. Les conseils prodigués ne supposent en aucun cas l’arrêt d’un traitement mis en place par un vétérinaire ni ne remplace le suivi habituel de votre animal chez son vétérinaire référent.
