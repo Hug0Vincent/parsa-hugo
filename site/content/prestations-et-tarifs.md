@@ -40,7 +40,7 @@ Chaque structure est unique, a ses propres besoins, ses points forts et ceux à 
 
   ###### Audit alimentaire 
 * Etat des lieux de l'existant ;
-* Réflexions sur les besoins propres aux usagers et les améliorations envisageables ;
+* Réflexions sur les besoins propres aux usagers, les améliorations envisageables ;
 * propositions de solutions dans le choix des matières premières, les méthodes de préparation et l'architecture des repas, les modalités de présentation, ....
 
   ###### Utilisation des huiles essentielles au sein de la collectivité :
