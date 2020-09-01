@@ -19,7 +19,7 @@ Grâce à une cartographie détaillée, il est possible d’agir sur un organe p
 
 ##### Les bienfaits de la réflexologie plantaire :
 
-* {{< hl-text couleur3 >}}Apporte une relaxation globale : le pied possède 7 200 terminaisons nerveuses, 90 muscles et 107 tendons, ceci explique pourquoi un simple massage des pieds apporte autant de bien-être ! La détente générée remonte dans tout le corps et libère la respiration, cela est déjà un facteur d’amélioration des maladies et de nombreuses douleurs ;
+* {{< hl-text couleur3 >}}Apporte une relaxation globale{{< /hl-text >}} : le pied possède 7 200 terminaisons nerveuses, 90 muscles et 107 tendons, ceci explique pourquoi un simple massage des pieds apporte autant de bien-être ! La détente générée remonte dans tout le corps et libère la respiration, cela est déjà un facteur d’amélioration des maladies et de nombreuses douleurs ;
 * {{< hl-text couleur3 >}}Soulage les douleurs{{< /hl-text >}} : le massage des zones réflexes soulage rapidement la plupart des symptômes douloureux fonctionnels ;
 * {{< hl-text couleur3 >}}Stimule les organes internes{{< /hl-text >}} : le massage des zones réflexes régule les grandes fonctions de l’organisme (respiration, digestion, élimination, sécrétions hormonales, ...) ;
 * {{< hl-text couleur3 >}}Prévient la maladie{{< /hl-text >}} : par une action sur les différentes fonctions du système nerveux et sur le système endocrinien, elle permet de renforcer le système immunitaire ;
