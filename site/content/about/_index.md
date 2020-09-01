@@ -33,16 +33,16 @@ Mon approche est préventive, éducative et globale mais surtout personnalisée 
 
 Ils associent la rigueur de ma formation scientifique et médicale à l’apport de la nature :
 
-* {{< hl-text couleur3 >}}La nutrition{{< /hl-text >}} : « Ton alimentation sera ton premier médicament » Hippocrate ;
-* La micronutrition : art de combler nos carences en micronutriments (vitamines, minéraux, ...) ;
-* La chrono nutrition : fournir à son corps ce dont il a besoin au moment où il en a besoin ;
-* Les huiles essentielles : actions physiques et psychiques de ces extraits de la nature ;
-* Les plantes : les « simples » sont sources de vie et ont tant à nous apprendre ;
-* Les fleurs de Bach : encore et encore les subtilités que nous offre dame Nature ;
-* L’auriculothérapie : parce que chacun a le droit d’avoir ses maux soulagés ;
-* La réflexologie plantaire ; bien-être et soins ;
-* La cohérence cardiaque : afin de rééquilibrer notre système nerveux ;
-* EFT, kinésiologie, ... : techniques de thérapies brèves afin de réconcilier corps et esprit ;
+* {{< hl-text couleur3 >}}**La nutrition**{{< /hl-text >}} : « Ton alimentation sera ton premier médicament » Hippocrate ;
+* {{< hl-text couleur3 >}}**La micronutrition**{{< /hl-text >}} : art de combler nos carences en micronutriments (vitamines, minéraux, ...) ;
+* {{< hl-text couleur3 >}}**La chrono nutrition**{{< /hl-text >}} : fournir à son corps ce dont il a besoin au moment où il en a besoin ;
+* {{< hl-text couleur3 >}}**Les huiles essentielles**{{< /hl-text >}} : actions physiques et psychiques de ces extraits de la nature ;
+* {{< hl-text couleur3 >}}**Les plantes**{{< /hl-text >}} : les « simples » sont sources de vie et ont tant à nous apprendre ;
+* {{< hl-text couleur3 >}}**Les fleurs de Bach**{{< /hl-text >}} : encore et encore les subtilités que nous offre dame Nature ;
+* {{< hl-text couleur3 >}}**L’auriculothérapie**{{< /hl-text >}} : parce que chacun a le droit d’avoir ses maux soulagés ;
+* {{< hl-text couleur3 >}}**La réflexologie plantaire**{{< /hl-text >}} : bien-être et soins ;
+* {{< hl-text couleur3 >}}**La cohérence cardiaque**{{< /hl-text >}} : afin de rééquilibrer notre système nerveux ;
+* {{< hl-text couleur3 >}}**EFT, kinésiologie, ...**{{< /hl-text >}} : techniques de thérapies brèves afin de réconcilier corps et esprit ;
 * ...
 
 Tous ces « outils » naturels nous permettent de trouver ensemble les solutions qui vous correspondent et qui vous permettent de retrouver santé, forme et bien-être.
