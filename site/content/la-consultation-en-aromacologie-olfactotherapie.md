@@ -35,8 +35,6 @@ Chacune des huiles essentielles est porteuse d’un message. De plus, à la diff
 * {{< hl-text couleur3 >}}Ancrage positif{{< /hl-text >}} : pour un bien être général (en particulier pour les personnes âgées).
 
   ##### Prestations :
-
-
-* **_Au cabinet _**: approche de l’aromacologie lors de la première consultation naturopathique et conseils plus approfondis lors des consultation de suivi.
-* **_Au cabinet_** : consultation en aromacologie/olfactothérapie : 50 euros
+* **_Au cabinet_** : consultation en aromacologie/olfactothérapie : 50 euros.
+* **_Au cabinet lors des consultations de naturopathie_** : approche de l'aromacologie.
 * **_En entreprise/collectivité_** (devis à la 1/2 journée sur demande) : ateliers en petits groupes avec réalisation d’un stick olfactif personnalisé pour une continuité.
