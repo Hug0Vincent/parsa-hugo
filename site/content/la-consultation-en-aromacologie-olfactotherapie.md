@@ -38,5 +38,5 @@ Ainsi, l’olfactothérapie utilise les odeurs des huiles essentielles pour cont
 
 
 * [Au cabinet]() : approche de l’aromacologie lors de la première consultation naturopathique et conseils plus approfondis lors des consultation de suivi.
-* Au cabinet : consultation en aromacologie/olfactothérapie : 50 euros
+* [Au cabinet]( "h1") : consultation en aromacologie/olfactothérapie : 50 euros
 * En entreprise/collectivité (devis à la 1/2 journée sur demande) : ateliers en petits groupes avec réalisation d’un stick olfactif personnalisé pour une continuité.
