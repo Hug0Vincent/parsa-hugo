@@ -33,7 +33,7 @@ Mon approche est préventive, éducative et globale mais surtout personnalisée 
 
 Ils associent la rigueur de ma formation scientifique et médicale à l’apport de la nature :
 
-* {{< hl-text couleur3 >}}**La nutrition**{{< /hl-text >}} : « Ton alimentation sera ton premier médicament » Hippocrate ;
+* {< hl-text couleur3 >}**La nutrition**{< /hl-text >} : « Ton alimentation sera ton premier médicament » Hippocrate ;
 * {{< hl-text couleur3 >}}**La micronutrition**{{< /hl-text >}} : art de combler nos carences en micronutriments (vitamines, minéraux, ...) ;
 * {{< hl-text couleur3 >}}**La chrono nutrition**{{< /hl-text >}} : fournir à son corps ce dont il a besoin au moment où il en a besoin ;
 * {{< hl-text couleur3 >}}**Les huiles essentielles**{{< /hl-text >}} : actions physiques et psychiques de ces extraits de la nature ;
