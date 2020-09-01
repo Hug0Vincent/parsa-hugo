@@ -13,9 +13,13 @@ weight = 8
 
 ##### L’EFT (Emotional Freedom Techniques)
 
-L’EFT est une technique psycho-corporelle dans laquelle on stimule certains points d’acupuncture avec les doigts en prononçant des phrases bien sélectionnées : elle utilise ainsi le corps (« je stimule mon système énergétique ») et l’esprit (« je me concentre sur mon problème »). Cette association permet de libérer rapidement des émotions négatives qui se sont ancrées à la suite d’événements perturbants dans le passé et de reprogrammer le système nerveux.
+L’EFT est une technique psycho-corporelle dans laquelle on stimule certains points d’acupuncture avec les doigts en prononçant des phrases bien sélectionnées : elle utilise ainsi le corps (« je stimule mon système énergétique ») et l’esprit (« je me concentre sur mon problème »). 
 
-L’EFT est efficace dans de nombreuses situations : colère, angoisse, chagrin, peur, manque de confiance en soi, timidité, stress, culpabilité, manque d’énergie, dépendance, traumatisme, douleurs, ... En tapotant sur un circuit de 9 points principaux, points d’entrée et de sorties des méridiens de l’acupuncture, on exprime ce que l'on ressent tout en acceptant pleinement que notre être ne se limite pas à cette facette de nous. Ainsi, nous procédons à une libération tout en douceur.
+Cette association **permet de libérer rapidement des émotions négatives qui se sont ancrées à la suite d’événements perturbants dans le passé et de reprogrammer le système nerveux.**
+
+L’EFT est efficace dans de nombreuses situations : colère, angoisse, chagrin, peur, manque de confiance en soi, timidité, stress, culpabilité, manque d’énergie, dépendance, traumatisme, douleurs, ... 
+
+En tapotant sur un circuit de 9 points principaux, points d’entrée et de sorties des méridiens de l’acupuncture, on exprime ce que l'on ressent tout en acceptant pleinement que notre être ne se limite pas à cette facette de nous. Ainsi, nous procédons à une libération tout en douceur.
 
 ##### La cohérence cardiaque : 
 
