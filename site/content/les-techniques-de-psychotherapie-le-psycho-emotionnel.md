@@ -42,4 +42,4 @@ Le Naturopathe n’est pas psychologue. Toutefois, il pourra utiliser lors de la
 ##### Prestations :
 
 * **_Approche de certaines méthodes de psychothérapie lors de la consultation naturopathique_** ; un flacon d’élixirs floraux personnalisé est compris dans le tarif de la consultation.
-* **_Séance d’EFT, kinésiologie,_** ... : 50 euros
+* **_Séance d’EFT, kinésiologie,_** ... : 50 €.
