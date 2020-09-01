@@ -48,18 +48,15 @@ Chaque structure est unique, a ses propres besoins, ses points forts et ceux à 
   * **Réévaluations régulières** en fonction de l’évolution des besoin de la structure et de ses usagers (rythme des saisons, préventions, des événements, ...)
   * **Fabrication de roll-on personnalisés** pour chaque intervenant de la structure
   * **Ateliers d’olfactothérapie** en petits groupes avec fabrication d’un stick olfactif personnalisé pour chacun des participants : spécialement adaptés aux personnes âgées pour l’accompagnement des troubles cognitifs (Alzheimer, démences, ...) mais également pour l’optimisation des capacités de chacun, de la prise en charge de la douleur, la réminiscence,....
-* 
 
   ###### Séances de bien être :
   * **En individuel** : réflexologie plantaire, réflexologie auriculaire,
   * **En collectif** : initiation à la cohérence cardiaque et à la relaxation, ...
-* 
 
-  ###### Organisation d’ateliers/séminaires : gestion du stress, gestion des émotions, augmenter sa confiance en soi, alimentation saine pour retrouver son énergie, ...
-* 
+  ###### Organisation d’ateliers/séminaires 
+* gestion du stress, confiance en soi, alimentation saine, retrouver son énergie, ...
 
-  ###### Aide à l’aménagement d’un espace bien-être au sein de la structure.
-* 
+  ###### **Aide à l’aménagement d’un espace bien-être au sein de la structure.**
 
   ###### ...
 
