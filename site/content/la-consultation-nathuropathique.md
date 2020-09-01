@@ -35,19 +35,19 @@ Nous sommes les propres acteurs de notre santé et de notre bien être.
 
 Pour aider à retrouver, maintenir santé, harmonie et bien-être le naturopathe s’appuie sur un choix raisonné parmi les 10 techniques naturopathiques, véritable « boîte à outils », qui permettent de construire ensemble un plan adapté : 
 
-###### l’alimentation ou hygiène nutritionnelle, 
+###### L’alimentation ou hygiène nutritionnelle, 
 
-###### la psychologie ou l’hygiène neuro-psychique, 
+###### La psychologie ou l’hygiène neuro-psychique, 
 
-###### l’exercice physique ou hygiène musculaire, 
+###### L’exercice physique ou hygiène musculaire, 
 
-###### les plantes, 
+###### Les plantes, 
 
-###### les techniques respiratoires, 
+###### Les techniques respiratoires, 
 
-###### la réflexologie, 
+###### La réflexologie, 
 
-... 
+###### ... 
 
 Au terme de chaque consultation, un programme d’hygiène vital est remis ou envoyé. 
 
