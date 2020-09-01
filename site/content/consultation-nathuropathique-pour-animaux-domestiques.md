@@ -49,5 +49,5 @@ Je ne réalise aucun diagnostic ni manipulation physique et ne prescris aucun tr
 
 ##### Tarifs :
 
-* Consultation à domicile (rayon de 30 kms autour de Combourg) : 60 euros (1heure environ)
+* Consultation à domicile (rayon de 20 kms autour de Combourg) : 60 euros (1heure environ)
 * Conseils par Skype : 60 euros (1h)
