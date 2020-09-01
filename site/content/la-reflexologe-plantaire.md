@@ -3,8 +3,8 @@ categories = ["prestation"]
 date = 2020-07-07T22:00:00Z
 description = ""
 image = "/images/img_7192.jpg"
-tags = ["nathuropathie", "consultation"]
-title = "La reflexologe plantaire"
+tags = ["nathuropathie", "prestation", "réflexologie", "réflexologie plantaire"]
+title = "La reflexologie plantaire"
 type = "post"
 weight = 7
 
