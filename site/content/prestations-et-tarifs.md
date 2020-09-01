@@ -19,13 +19,6 @@ weight = 9
 * **_Bilan iridologique complet_** au cabinet ou à distance : 40 €.
 * **_Consultation d’aromathérapie et/ou d'olfactothérapie_** (45 mns à 1h) : 50 €
 
-##### En ateliers : tarifs en fonction du thème
-
-* En petits groupes, à la Chapelle aux Filtzméens, au milieu de la nature et des animaux. Ateliers pratiques, interactifs, avec participations de chacun.
-* **_Pour enfants (8-12 ans)_** : pendant 1 à 2h pendant les vacances scolaires, thèmes et activités en lien avec l’âge.
-* **_Pour adolescents (12-15 ans)_** : en 1/2 journée pendant les vacances scolaires, thèmes et activités en lien avec l’âge.
-* **_Pour adultes_** : durée et thèmes variables.
-
 ##### Naturopathie pour animaux :
 
 **_Consultation à domicile_** (rayon de 20 kms autour de Combourg) : 60 € (1heure)
@@ -69,5 +62,12 @@ Chaque structure est unique, a ses propres besoins, ses points forts et ceux à 
 * 
 
   ###### ...
+
+##### En ateliers : tarifs en fonction du thème
+
+* En petits groupes, à la Chapelle aux Filtzméens, au milieu de la nature et des animaux. Ateliers pratiques, interactifs, avec participations de chacun.
+* **_Pour enfants (8-12 ans)_** : pendant 1 à 2h pendant les vacances scolaires, thèmes et activités en lien avec l’âge.
+* **_Pour adolescents (12-15 ans)_** : en 1/2 journée pendant les vacances scolaires, thèmes et activités en lien avec l’âge.
+* **_Pour adultes_** : durée et thèmes variables.
 
 N'hésitez pas à prendre contact pour tous types de projets.
