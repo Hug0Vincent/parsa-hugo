@@ -43,17 +43,31 @@ J’interviens en établissements médico-sociaux et sanitaires, collectivités 
 
 Chaque structure est unique, a ses propres besoins, ses points forts et ceux à améliorer. **Un premier entretien (gratuit) permet de déterminer ensemble les axes de travail.**
 
-* ###### Audit alimentaire : état des lieux de l’existant, réflexions sur les besoins propres aux usagers et les améliorations envisageables, proposition de solutions dans le choix des matières premières, les méthodes de préparation, l’architecture des repas, les modalités de présentation, ...
-* ###### Utilisation des huiles essentielles au sein de la collectivité :
+* 
+
+  ###### Audit alimentaire 
+* Etat des lieux de l'existant ;
+* Réflexions sur les besoins propres aux usagers et les améliorations envisageables ;
+* propositions de solutions dans le choix des matières premières, les méthodes de préparation et l'architecture des repas, les modalités de présentation, ....
+
+  ###### Utilisation des huiles essentielles au sein de la collectivité :
   * **En fonction des besoins et des points à améliorer** dans chaque structure
   * **Réévaluations régulières** en fonction de l’évolution des besoin de la structure et de ses usagers (rythme des saisons, préventions, des événements, ...)
   * **Fabrication de roll-on personnalisés** pour chaque intervenant de la structure
   * **Ateliers d’olfactothérapie** en petits groupes avec fabrication d’un stick olfactif personnalisé pour chacun des participants : spécialement adaptés aux personnes âgées pour l’accompagnement des troubles cognitifs (Alzheimer, démences, ...) mais également pour l’optimisation des capacités de chacun, de la prise en charge de la douleur, la réminiscence,....
-* ###### Séances de bien être :
+* 
+
+  ###### Séances de bien être :
   * **En individuel** : réflexologie plantaire, réflexologie auriculaire,
   * **En collectif** : initiation à la cohérence cardiaque et à la relaxation, ...
-* ###### Organisation d’ateliers/séminaires : gestion du stress, gestion des émotions, augmenter sa confiance en soi, alimentation saine pour retrouver son énergie, ...
-* ###### Aide à l’aménagement d’un espace bien-être au sein de la structure.
-* ###### ...
+* 
+
+  ###### Organisation d’ateliers/séminaires : gestion du stress, gestion des émotions, augmenter sa confiance en soi, alimentation saine pour retrouver son énergie, ...
+* 
+
+  ###### Aide à l’aménagement d’un espace bien-être au sein de la structure.
+* 
+
+  ###### ...
 
 N'hésitez pas à prendre contact pour tous types de projets.
