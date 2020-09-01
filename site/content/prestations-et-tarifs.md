@@ -11,13 +11,13 @@ weight = 9
 +++
 ##### En individuel
 
-* Séance de réflexologie auriculaire (environ 45 minutes) : 45 euros.
+* Séance de réflexologie auriculaire (environ 45 minutes) : 45 €.
 * Consultation Naturopathique au cabinet ou par Skype :
-  * Première consultation (environ 1h30) : 60 euros
-  * Consultations de suivi (environ 1h) : 50 euros
-  * Consultation par Skype : 60 euros
-* Bilan iridologique complet au cabinet ou à distance : 40 euros
-* Consultation d’aromathérapie/olfactothérapie (environ 1h) : 50 euros
+  * Première consultation (1h à 1h30) : 60 € ;
+  * Consultations de suivi (45 mns à 1h) : 50 € ;
+  * Consultation par Skype : 60 €.
+* Bilan iridologique complet au cabinet ou à distance : 40 €.
+* Consultation d’aromathérapie/olfactothérapie (45 mns à 1h) : 50 €
 
 ##### En ateliers : tarifs en fonction du thème
 
