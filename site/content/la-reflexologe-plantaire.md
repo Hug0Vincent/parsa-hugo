@@ -30,5 +30,5 @@ Grâce à une cartographie détaillée, il est possible d’agir sur un organe p
 
 ##### Prestations :
 
-* Au cabinet : une séance de réflexologie plantaire peut être adossée à une consultation naturopathique (supplément de 30 € pour 30 minutes).
-* En entreprise : séances individuelles de réflexologie auriculaire : tarif à la 1/2 journée (me contacter).
+* **_Au cabinet_** : une séance de réflexologie plantaire peut être adossée à une consultation naturopathique (supplément de 30 € pour 30 minutes).
+* **_En entreprise_** : séances individuelles de réflexologie auriculaire : tarif à la 1/2 journée (me contacter).
