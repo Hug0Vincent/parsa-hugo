@@ -38,10 +38,10 @@ Consultation de suivi : 45 € (30 minutes environ)
 
 J’interviens en établissements médico-sociaux et sanitaires, collectivités territoriales, entreprises privées et publiques, ...
 
-* Pour améliorer la qualité de vie au travail des salariés et intervenants.
-* Pour un bien être des usagers, une optimisation des capacités de chacun.
+* Pour **améliorer la qualité de vie au travail** des salariés et intervenants.
+* Pour un **bien être des usagers, une optimisation des capacités de chacun**.
 
-Chaque structure est unique, a ses propres besoins, ses points forts et ceux à améliorer. Un premier entretien (gratuit) permet de déterminer ensemble les axes de travail.
+Chaque structure est unique, a ses propres besoins, ses points forts et ceux à améliorer. **Un premier entretien (gratuit) permet de déterminer ensemble les axes de travail.**
 
 * #### Audit alimentaire : état des lieux de l’existant, réflexions sur les besoins propres aux usagers et les améliorations envisageables, proposition de solutions dans le choix des matières premières, les méthodes de préparation, l’architecture des repas, les modalités de présentation, ...
 * #### Utilisation des huiles essentielles au sein de la collectivité :
