@@ -13,7 +13,15 @@ weight = 6
 
 ##### Qu'est-ce que l'auriculothérapie
 
-L’auriculothérapie est un mot formé par l’assemblage d’un mot grec « therapeuin » qui signifie « soigner » et d’un mot latin « auricula » qui signifie « petite oreille ». Cette discipline existe depuis très longtemps puisque, déjà Hippocrate au Vème siècle avant JC, utilisait l’oreille à des fins thérapeutiques. Fondée en France en 1957 par le médecin Paul Nogier, l’auriculothérapie révèle que chaque oreille est un « écran » sur lequel se projettent toutes les zones du corps. Elle repose sur une cartographie du pavillon de l’oreille (nomenclature standardisée par l’Organisation Mondiale de la Santé, rapport INSERM 2013). Elle consiste à stimuler des points de l’oreille correspondant chacun à une partie du corps. Après détection puis massage des points en déséquilibre, des aimants (en argent ou en or) ou des graines neutres sont posées sur certain points de l’oreille où ils donneront continuité à la séance.
+L’auriculothérapie est un mot formé par l’assemblage d’un mot grec « therapeuin » qui signifie « soigner » et d’un mot latin « auricula » qui signifie « petite oreille ». 
+
+Cette discipline existe depuis très longtemps puisque, déjà Hippocrate au Vème siècle avant JC, utilisait l’oreille à des fins thérapeutiques. Fondée en France en 1957 par le médecin Paul Nogier, l’auriculothérapie révèle que chaque oreille est un « écran » sur lequel se projettent toutes les zones du corps. 
+
+Elle repose sur une cartographie du pavillon de l’oreille (nomenclature standardisée par l’Organisation Mondiale de la Santé, rapport INSERM 2013). 
+
+**Elle consiste à stimuler des points de l’oreille correspondant chacun à une partie du corps.** 
+
+Après détection puis massage des points en déséquilibre, des aimants (en argent ou en or) ou des graines neutres sont posées sur certain points de l’oreille où ils donneront continuité à la séance.
 
 ##### Les grandes indications directes de l’auriculothérapie :
 
