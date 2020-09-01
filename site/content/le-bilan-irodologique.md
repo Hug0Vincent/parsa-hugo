@@ -11,17 +11,17 @@ weight = 3
 +++
 > « Tel sont les yeux, tel est le corps » Hippocrate
 
+##### Qu'est-ce que l'iridologie ?
+
 L’iridologie est pratiquée depuis la nuit des temps, c’est une technique de bilan par l'examen de la partie colorée de l'oeil : l’iris. En effet, l’iris est une zone de projection de tout le corps, chaque organe, et son état, s’y trouve représenté selon son état. Chaque paramètre des deux iris est donc pris en considération. L’œil se comporte comme une carte d’identité du corps. Dans les yeux se manifeste l’état nerveux des tissus, des glandes, des organes, de l’organisme.
 
 ##### Bilan synthétique inclus dans la première consultation naturopathique
 
 La vocation première du bilan iridologique est de réaliser un bilan de terrain à la recherche des éléments à la base du raisonnement naturopathique que l’on nomme « indices de vitalité », ils sont au nombre de trois :
 
-- Valeur de la force vitale
-
-- Valeur et qualité des surcharges (types, quantité et localisation des toxines de notre organisme)
-
-- Perméabilité des émonctoires (organes qui nous permettent d’éliminer nos « déchets »)
+* Valeur de la force vitale
+* Valeur et qualité des surcharges (types, quantité et localisation des toxines de notre organisme)
+* Perméabilité des émonctoires (organes qui nous permettent d’éliminer nos « déchets »)
 
 Ce bilan iridologique permet, associé aux autres bilans d’établir les conseils les plus personnalisés.
 
