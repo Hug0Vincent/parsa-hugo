@@ -28,9 +28,9 @@ Comme pour l’humain, nous chercherons l’origine des maux afin d’agir sur e
 ##### La démarche :
 
 * ###### Une prise en charge holistique de l’animal ;
-* ###### Une prise en compte de l’individualité de votre animal, de son passé, de son tempérament, de son contexte médical, de sa relation avec son environnement (famille, lieu de vie, ...), ...;
-* Une complémentarité avec le suivi vétérinaire et les traitements allopathiques prescrits ;
-* De la bienveillance, de la patience et du respect.
+* ###### Une prise en compte de l’individualité de votre animal ######, de son passé, de son tempérament, de son contexte médical, de sa relation avec son environnement (famille, lieu de vie, ...), ...;
+* ###### Une complémentarité avec le suivi vétérinaire ###### et les traitements allopathiques prescrits ;
+* ###### De la bienveillance ######, de la patience et du respect.
 
 ##### Les moyens :
 
