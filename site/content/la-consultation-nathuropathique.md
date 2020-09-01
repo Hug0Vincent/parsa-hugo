@@ -55,6 +55,6 @@ Au terme de chaque consultation, un programme d’hygiène vital est remis ou en
 
 ##### Prestations :
 
-* Première consultation (environ 1h30) : 60 euros
-* Consultation de suivi (environ 45 mns) : bilan, évolution, approfondissement éventuel d’une technique, ... : 50 euros
-* Consultation à distance par skype : 60 euros
+* **_Première consultation_** (environ 1h30) : 60 €.
+* **_Consultation de suivi_** (environ 45 mns) : bilan, évolution, approfondissement éventuel d’une technique, ... : 50 €.
+* **_Consultation à distance par skype_** : 60 €.
