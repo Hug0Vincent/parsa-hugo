@@ -15,16 +15,20 @@ weight = 2
 
 Ensemble, nous proposerons à votre animal de compagnie plus qu’un « remède » naturel :
 
-* - Nous améliorerons son **bien-être global** au quotidien au sein de son environnement,
-* - Nous accompagnerons une **pathologie aiguë ou chronique diagnostiquée** par votre vétérinaire en complément du traitement allopathique mis en place,Nous appréhenderons d’éventuels stress qui peuvent être sources de maladie,
-* - Nous mettrons en place des **plans de prévention de sa santé** de façon naturelle,
-* - Nous améliorerons d’éventuels **troubles psychiques**,
-* - Comme pour l’humain, nous chercherons l’origine des maux afin d’agir sur eux.
+Nous améliorerons son **bien-être global** au quotidien au sein de son environnement,
+
+Nous accompagnerons une **pathologie aiguë ou chronique diagnostiquée** par votre vétérinaire en complément du traitement allopathique mis en place,Nous appréhenderons d’éventuels stress qui peuvent être sources de maladie,
+
+Nous mettrons en place des **plans de prévention de sa santé** de façon naturelle,
+
+Nous améliorerons d’éventuels **troubles psychiques**,
+
+Comme pour l’humain, nous chercherons l’origine des maux afin d’agir sur eux.
 
 ##### La démarche :
 
-* ### Une prise en charge holistique de l’animal ;
-* ### Une prise en compte de l’individualité de votre animal, de son passé, de son tempérament, de son contexte médical, de sa relation avec son environnement (famille, lieu de vie, ...), ...;
+* ###### Une prise en charge holistique de l’animal ;
+* ###### Une prise en compte de l’individualité de votre animal, de son passé, de son tempérament, de son contexte médical, de sa relation avec son environnement (famille, lieu de vie, ...), ...;
 * Une complémentarité avec le suivi vétérinaire et les traitements allopathiques prescrits ;
 * De la bienveillance, de la patience et du respect.
 
