@@ -21,13 +21,13 @@ Mon approche est préventive, éducative et globale mais surtout personnalisée 
 
 #### Mon parcours
 
-* Diplôme de vétérinaire (1998) ; Thèse pour le doctorat de vétérinaire (2000) ;
-* Formation en naturopathie et iridologie au CNR André Lafon (2017-2019) ;
-* Praticienne en aromathérapie (Fédération Française d’aromathérapie) (2020) ;
-* Certification en auriculothérapie (2019) ;
-* Certification en réflexologie plantaire (2019) ;
-* Suivi de formation en EFT et kinésiologie (2018-2019) ;
-* Membre adhérant du syndicat des professionnels de la naturopathie, de l’APNF
+* - Diplôme de vétérinaire (1998) ; Thèse pour le doctorat de vétérinaire (2000) ;
+* - Formation en naturopathie et iridologie au CNR André Lafon (2017-2019) ;
+* - Praticienne en aromathérapie (Fédération Française d’aromathérapie) (2020) ;
+* - Certification en auriculothérapie (2019) ;
+* - Certification en réflexologie plantaire (2019) ;
+* - Suivi de formation en EFT et kinésiologie (2018-2019) ;
+* - Membre adhérant du syndicat des professionnels de la naturopathie, de l’APNF
 
 #### Mes « outils » préférés parmi la multitude des techniques naturopathiques
 
