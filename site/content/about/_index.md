@@ -49,10 +49,10 @@ Ils associent la rigueur de ma formation scientifique et médicale à l’apport
 
 #### Mes sujets de prédilection :
 
-* L’appareil digestif et l’alimentation saine ;
-* le sommeil et la gestion du stress ;
-* les troubles musculo-squeletiques ;
-* les inflammatoires chroniques ;
-* la prise en charge du vieillissement ;
-* notre relation à notre environnement ;
+* - L’appareil digestif et l’alimentation saine ;
+* - Le sommeil et la gestion du stress ;
+* - Les troubles musculo-squeletiques ;
+* - Les inflammatoires chroniques ;
+* - La prise en charge du vieillissement ;
+* - Notre relation à l'environnement ;
 * ...
