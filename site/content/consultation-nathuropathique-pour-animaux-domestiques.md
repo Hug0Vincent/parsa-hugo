@@ -37,8 +37,8 @@ Comme pour l’humain, nous chercherons l’origine des maux afin d’agir sur e
 * Un entretien qui prend en compte l’animal, son tempérament, son histoire, son historique médical, son environnement, la famille entière,
 * La rédaction d’un programme de conseils dans lequel seront associées différentes techniques naturopathiques adaptées à votre animal :
   * Aromathérapie : utilisation des huiles essentielles de façon sécuritaire pour votre animal ;
-  * Phytothérapie : utilisation des plantes sous forme d’Extraits de Plantes Standardisés à prendre par voie orale ;
-  * Gemmothérapie : utilisation d’extrait de bourgeons, concentré des principes actifs de la future plante à prendre par voie orale ;
+  * Phytothérapie : utilisation des plantes essentiellement sous forme d’Extraits de Plantes Standardisés à prendre par voie orale ;
+  * Gemmothérapie : utilisation d’extraits de bourgeons, concentrés des principes actifs de la future plante à prendre par voie orale ;
   * Conseils en comportement : le bien être de votre compagnon passe aussi par son éducation ;
   * Fleurs de Bach : les émotions de votre animal prennent ici toute leur importance ;
   * Homéopathie : stimule le corps afin qu’il se soigne lui même, basée sur la loi de la similitude entre les manifestations du corps et le remède ;
