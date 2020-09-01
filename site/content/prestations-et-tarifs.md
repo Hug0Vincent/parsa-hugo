@@ -22,17 +22,17 @@ weight = 9
 ##### En ateliers : tarifs en fonction du thème
 
 * En petits groupes, à la Chapelle aux Filtzméens, au milieu de la nature et des animaux. Ateliers pratiques, interactifs, avec participations de chacun.
-* Pour enfants (8-12 ans) : pendant 1 à 2h pendant les vacances scolaires, thèmes et activités en lien avec l’âge
-* Pour adolescents (12-15 ans) : en 1/2 journée pendant les vacances scolaires, thèmes et activités en lien avec l’âge
-* Pour adultes : durée et thèmes variables
+* Pour enfants (8-12 ans) : pendant 1 à 2h pendant les vacances scolaires, thèmes et activités en lien avec l’âge.
+* Pour adolescents (12-15 ans) : en 1/2 journée pendant les vacances scolaires, thèmes et activités en lien avec l’âge.
+* Pour adultes : durée et thèmes variables.
 
 ##### Naturopathie pour animaux :
 
-Consultation à domicile (rayon de 30 kms autour de Combourg) : 60 euros (1heure)
+Consultation à domicile (rayon de 20 kms autour de Combourg) : 60 € (1heure)
 
-Conseils par Skype : 60 euros (1h environ)
+Conseils par Skype : 60 € (1h environ)
 
-Consultation de suivi : 45 euros (30 minutes environ)
+Consultation de suivi : 45 € (30 minutes environ)
 
 ##### Collectivités/entreprises : tarifs à la 1/2 journée (me contacter)
 
