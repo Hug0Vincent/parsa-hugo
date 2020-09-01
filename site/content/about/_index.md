@@ -2,7 +2,7 @@
 title: À propos
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
-image: images/img_8553.jpg
+image: ''
 
 ---
 #### Qui suis-je ?
@@ -33,7 +33,7 @@ Mon approche est préventive, éducative et globale mais surtout personnalisée 
 
 Ils associent la rigueur de ma formation scientifique et médicale à l’apport de la nature :
 
-* **_La nutrition_** : « Ton alimentation sera ton premier médicament » Hippocrate ;
+* {{< hl-text couleur3 >}}La nutrition{{< /hl-text >}} : « Ton alimentation sera ton premier médicament » Hippocrate ;
 * La micronutrition : art de combler nos carences en micronutriments (vitamines, minéraux, ...) ;
 * La chrono nutrition : fournir à son corps ce dont il a besoin au moment où il en a besoin ;
 * Les huiles essentielles : actions physiques et psychiques de ces extraits de la nature ;
