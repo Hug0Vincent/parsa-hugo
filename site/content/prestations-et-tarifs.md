@@ -11,7 +11,7 @@ weight = 9
 +++
 ##### En individuel
 
-* Séance de réflexologie auriculaire (environ 45 minutes) : 45 €.
+* Séance de réflexologie auriculaire (45 mns à 1h) : 50 €.
 * Consultation Naturopathique au cabinet ou par Skype :
   * Première consultation (1h à 1h30) : 60 € ;
   * Consultations de suivi (45 mns à 1h) : 50 € ;
