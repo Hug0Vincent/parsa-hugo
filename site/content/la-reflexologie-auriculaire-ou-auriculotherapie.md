@@ -21,7 +21,7 @@ Elle repose sur une cartographie du pavillon de l’oreille (nomenclature standa
 
 **Elle consiste à stimuler des points de l’oreille correspondant chacun à une partie du corps.** 
 
-Après détection puis massage des points en déséquilibre, des aimants (en argent ou en or) ou des graines neutres sont posées sur certain points de l’oreille où ils donneront continuité à la séance.
+Après détection puis massage des points en déséquilibre, des aimants (en argent ou en or) ou des graines neutres sont posées sur certain points de l’oreille : ils donneront ainsi continuité à la séance.
 
 ##### Les grandes indications directes de l’auriculothérapie :
 
