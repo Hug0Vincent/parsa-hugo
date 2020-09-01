@@ -17,7 +17,7 @@ La consultation est une situation de communication directe avec le naturopathe q
 
 La naturopathie est une **pratique de santé globale** **qui appréhende chaque individu en tant qu’être unique**. L’objectif du naturopathe est de répondre au motif de consultation mais en prenant en compte toutes les facettes de la personne (démarche holistique) d’une façon personnalisée.
 
-Cette approche permet de comprendre la cause des déséquilibres existants, qui se traduisent bien souvent par des symptômes, véritables signaux d'un corps qui "tire la sonnette d’alarme ». 
+Cette approche permet de comprendre la cause des déséquilibres existants, qui se traduisent bien souvent par des symptômes, véritables signaux d'un corps qui "tire la sonnette d’alarme ».
 
 En naturopathie, on ne cherche donc pas à supprimer les symptômes, même les plus banalisés (troubles digestifs, syndrome prémenstruel, douleurs articulaires, maux de tête, prise de poids, ...) mais à les comprendre afin de modifier ce qui les cause et les entretient.
 
@@ -33,23 +33,23 @@ Nous sommes les propres acteurs de notre santé et de notre bien être.
 
 ##### Les "outils" naturopathiques
 
-Pour aider à retrouver, maintenir santé, harmonie et bien-être le naturopathe s’appuie sur un choix raisonné parmi les 10 techniques naturopathiques, véritable « boîte à outils », qui permettent de construire ensemble un plan adapté : 
+Pour aider à retrouver, maintenir santé, harmonie et bien-être le naturopathe s’appuie sur un choix raisonné parmi les 10 techniques naturopathiques, véritable « boîte à outils », qui permettent de construire ensemble un plan adapté :
 
-###### L’alimentation ou hygiène nutritionnelle, 
+######  - L’alimentation ou hygiène nutritionnelle,
 
-###### La psychologie ou l’hygiène neuro-psychique, 
+###### - La psychologie ou l’hygiène neuro-psychique,
 
-###### L’exercice physique ou hygiène musculaire, 
+###### - L’exercice physique ou hygiène musculaire,
 
-###### Les plantes, 
+###### - Les plantes,
 
-###### Les techniques respiratoires, 
+###### - Les techniques respiratoires,
 
-###### La réflexologie, 
+###### - La réflexologie,
 
-###### ... 
+###### - ...
 
-Au terme de chaque consultation, un programme d’hygiène vital est remis ou envoyé. 
+Au terme de chaque consultation, un programme d’hygiène vital est remis ou envoyé.
 
 **_Le naturopathe iridologue ne pratique aucun diagnostic médical et les techniques proposées ne se substituent à aucun traitement médical ou suivi psychologique._**
 
