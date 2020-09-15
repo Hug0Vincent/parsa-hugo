@@ -56,8 +56,7 @@ Ils associent la rigueur de ma formation scientifique et médicale à l’apport
   {{< hl-text couleur3 >}}Telles des notes sont judicieusement assemblées pour composer un morceau de musique, ces « outils » naturels sont choisis et combinés afin de trouver ensemble le cheminement qui vous correspond.{{< /hl-text >}}
 * 
 
-  Mes sujets de prédilection :
-
+#### Mes sujets de prédilection :
 
 * 
   * L’appareil digestif et l’alimentation saine ;
