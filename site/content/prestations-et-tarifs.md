@@ -29,12 +29,17 @@ weight = 9
 
 ##### Collectivités/entreprises : tarifs à la 1/2 journée (me contacter)
 
-J’interviens en établissements médico-sociaux et sanitaires, collectivités territoriales, entreprises privées et publiques, ...
+J’interviens en établissements médico-sociaux et sanitaires, établissements scolaires, collectivités territoriales, entreprises privées et publiques, ...
 
-* Pour **améliorer la qualité de vie au travail** des salariés et intervenants.
-* Pour un **bien être des usagers, une optimisation des capacités de chacun**.
+* Pour **améliorer la qualité de vie au travail** des salariés et intervenants,
+* Pour un **bien être des usagers,** 
+* Pour **une optimisation des capacités de chacun**,
+* Pour **un apprentissage à un mode de vie plus sain (alimentation, hygiène de vie, ...) et à un respect de notre organisme et de notre environnement**,
+* ....
 
 Chaque structure est unique, a ses propres besoins, ses points forts et ceux à améliorer. **Un premier entretien (gratuit) permet de déterminer ensemble les axes de travail.**
+
+\###Je m’adapte au public concerné : enfants (de l’école maternelle au lycée), adultes, personnes âgées, personnes en perte d’autonomie, salariés, …###
 
 ###### Audit alimentaire
 
