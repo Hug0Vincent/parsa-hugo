@@ -50,12 +50,14 @@ Ils associent la rigueur de ma formation scientifique et médicale à l’apport
 * {{< hl-text couleur3 >}}L’auriculothérapie{{< /hl-text >}} : pour son efficacité et sa facilité d'application  ;
 * {{< hl-text couleur3 >}}La réflexologie plantaire{{< /hl-text >}} : bien-être et/ou intégrer dans les cures naturopathiques ;
 * {{< hl-text couleur3 >}}La cohérence cardiaque{{< /hl-text >}} : afin de rééquilibrer notre système nerveux ;
-* < hl-text couleur3 >EFT, kinésiologie, ...< /hl-text >: techniques de thérapies brèves afin de réconcilier corps et esprit ;
-* < hl-text couleur3 >...< /hl-text >
+*  {{< hl-text couleur3 >}}EFT, kinésiologie, ...{{< /hl-text >}}: techniques de thérapies brèves afin de réconcilier corps et esprit ;
+* {{< hl-text couleur3 >}}...{{< /hl-text >}}
 
-\###Telles des notes sont judicieusement assemblées pour composer un morceau de musique, ces « outils » naturels sont choisis et combinés afin de trouver ensemble le cheminement qui vous correspond.###
+  {{< hl-text couleur3 >}}Telles des notes sont judicieusement assemblées pour composer un morceau de musique, ces « outils » naturels sont choisis et combinés afin de trouver ensemble le cheminement qui vous correspond.{{< /hl-text >}}
+* 
 
-#### Mes sujets de prédilection :
+  Mes sujets de prédilection :
+
 
 * 
   * L’appareil digestif et l’alimentation saine ;
