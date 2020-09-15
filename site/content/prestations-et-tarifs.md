@@ -52,7 +52,7 @@ propositions de solutions dans le choix des matières premières, les méthodes 
 
 * **En fonction des besoins et des points à améliorer** dans chaque structure
 * **Réévaluations régulières** en fonction de l’évolution des besoin de la structure et de ses usagers (rythme des saisons, préventions, des événements, ...)
-* **Fabrication de roll-on personnalisés** pour chaque intervenant de la structure
+* **Fabrication de roll-on d'huiles essentielles personnalisés** pour chaque intervenant de la structure
 * **Ateliers d’olfactothérapie** en petits groupes avec fabrication d’un stick olfactif personnalisé pour chacun des participants : spécialement adaptés aux personnes âgées pour l’accompagnement des troubles cognitifs (Alzheimer, démences, ...) mais également pour l’optimisation des capacités de chacun, de la prise en charge de la douleur, la réminiscence,....
 
 ###### Séances de bien être :
@@ -62,7 +62,7 @@ propositions de solutions dans le choix des matières premières, les méthodes 
 
 ###### Organisation d’ateliers/séminaires
 
-gestion du stress, confiance en soi, alimentation saine, retrouver son énergie, ...
+base de l'alimentation saine, gestion du stress, confiance en soi, retrouver son énergie, ...
 
 ###### **Aide à l’aménagement d’un espace bien-être au sein de la structure.**
 
