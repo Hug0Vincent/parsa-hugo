@@ -53,7 +53,7 @@ Ils associent la rigueur de ma formation scientifique et médicale à l’apport
 * < hl-text couleur3 >EFT, kinésiologie, ...< /hl-text >: techniques de thérapies brèves afin de réconcilier corps et esprit ;
 * < hl-text couleur3 >...< /hl-text >
 
-  \###Telles des notes sont judicieusement assemblées pour composer un morceau de musique, ces « outils » naturels sont choisis et combinés afin de trouver ensemble le cheminement qui vous correspond.###
+\###Telles des notes sont judicieusement assemblées pour composer un morceau de musique, ces « outils » naturels sont choisis et combinés afin de trouver ensemble le cheminement qui vous correspond.###
 
 #### Mes sujets de prédilection :
 
