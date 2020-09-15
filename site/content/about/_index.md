@@ -36,6 +36,8 @@ Mon approche est préventive, éducative et globale mais surtout personnalisée 
 * 
   * Membre adhérant du syndicat des professionnels de la naturopathie, de l’APNF
 
+ 
+
 #### Mes « outils » préférés parmi la multitude des techniques naturopathiques :
 
 Ils associent la rigueur de ma formation scientifique et médicale à l’apport de la nature :
