@@ -39,7 +39,7 @@ J’interviens en établissements médico-sociaux et sanitaires, établissements
 
 Chaque structure est unique, a ses propres besoins, ses points forts et ceux à améliorer. **Un premier entretien (gratuit) permet de déterminer ensemble les axes de travail.**
 
-\###Je m’adapte au public concerné : enfants (de l’école maternelle au lycée), adultes, personnes âgées, personnes en perte d’autonomie, salariés, …###
+{{< hl-text couleur3 >}}Je m’adapte au public concerné : enfants (de l’école maternelle au lycée), adultes, personnes âgées, personnes en perte d’autonomie, salariés, …{{< /hl-text >}}
 
 ###### Audit alimentaire
 
