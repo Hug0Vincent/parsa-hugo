@@ -21,13 +21,20 @@ Mon approche est préventive, éducative et globale mais surtout personnalisée 
 
 #### Mon parcours
 
-* - Diplôme de vétérinaire (1998) ; Thèse pour le doctorat de vétérinaire (2000) ;
-* - Formation en naturopathie et iridologie au CNR André Lafon (2017-2019) ;
-* - Praticienne en aromathérapie (Fédération Française d’aromathérapie) (2020) ;
-* - Certification en auriculothérapie (2019) ;
-* - Certification en réflexologie plantaire (2019) ;
-* - Suivi de formation en EFT et kinésiologie (2018-2019) ;
-* - Membre adhérant du syndicat des professionnels de la naturopathie, de l’APNF
+* 
+  * Diplôme de vétérinaire (1998) ; Thèse pour le doctorat de vétérinaire (2000) ;
+* 
+  * Formation en naturopathie et iridologie au CNR André Lafon (2017-2019) ;
+* 
+  * Praticienne en aromathérapie (Fédération Française d’aromathérapie) (2020) ;
+* 
+  * Certification en auriculothérapie (2019) ;
+* 
+  * Certification en réflexologie plantaire (2019) ;
+* 
+  * Suivi de formation en EFT et kinésiologie (2018-2019) ;
+* 
+  * Membre adhérant du syndicat des professionnels de la naturopathie, de l’APNF
 
 #### Mes « outils » préférés parmi la multitude des techniques naturopathiques
 
@@ -47,12 +54,20 @@ Ils associent la rigueur de ma formation scientifique et médicale à l’apport
 
   Tous ces « outils » naturels nous permettent de trouver ensemble les solutions qui vous correspondent et qui vous permettent de retrouver santé, forme et bien-être.
 
+#### **Telles des notes sont judicieusement assemblées pour composer un morceau de musique, ces « outils » naturels sont choisis et combinés afin de trouver ensemble le cheminement qui vous correspond.**
+
 #### Mes sujets de prédilection :
 
-* - L’appareil digestif et l’alimentation saine ;
-* - Le sommeil et la gestion du stress ;
-* - Les troubles musculo-squeletiques ;
-* - Les inflammatoires chroniques ;
-* - La prise en charge du vieillissement ;
-* - Notre relation à l'environnement ;
+* 
+  * L’appareil digestif et l’alimentation saine ;
+* 
+  * Le sommeil et la gestion du stress ;
+* 
+  * Les troubles musculo-squeletiques ;
+* 
+  * Les inflammatoires chroniques ;
+* 
+  * La prise en charge du vieillissement ;
+* 
+  * Notre relation à l'environnement ;
 * ...
