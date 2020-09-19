@@ -5,7 +5,10 @@ description: This is meta description
 image: ''
 
 ---
-#### ![](/images/img_7173.jpg)Qui suis-je ?
+
+![](/images/img_7173.jpg)
+
+#### Qui suis-je ?
 
 Une enfance en contact avec la nature et les animaux m’a apportée la compréhension des éléments naturels et cette vocation de faire du soin des animaux mon métier.
 
