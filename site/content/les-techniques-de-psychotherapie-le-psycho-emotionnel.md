@@ -2,7 +2,7 @@
 categories = ["prestation"]
 date = 2020-07-08T23:00:00Z
 description = ""
-image = "/images/img_7842.jpg"
+image = "/images/img_4962.jpg"
 tags = ["nathuropathie", "consultation", "techniques psycho-émotionnelles", " psychologie", "EFT", "cohérence cardiaque", "kinésiologie", "fleurs de Bach"]
 title = "Les Techniques de psychotherapie : le psycho-emotionnel"
 type = "post"
