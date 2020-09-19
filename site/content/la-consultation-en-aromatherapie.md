@@ -2,7 +2,7 @@
 categories = ["prestation"]
 date = 2020-07-03T22:00:00Z
 description = ""
-image = "/images/img_1233.jpg"
+image = "/images/img_3591.jpg"
 tags = ["nathuropathie", "prestation", "aromathérapie", "huiles essentielles", "consultation"]
 title = "La consultation en aromatherapie"
 type = "post"
