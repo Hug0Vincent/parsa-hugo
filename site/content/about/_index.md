@@ -5,7 +5,7 @@ description: This is meta description
 image: ''
 
 ---
-#### Qui suis-je ?
+#### ![](/images/img_7173.jpg)Qui suis-je ?
 
 Une enfance en contact avec la nature et les animaux m’a apportée la compréhension des éléments naturels et cette vocation de faire du soin des animaux mon métier.
 
@@ -13,15 +13,11 @@ J’exerce depuis plus de 20 ans le métier de vétérinaire qui allie contact a
 
 Je propose donc écoute, aide et conseils que je divulgue depuis tant d’années dans mon métier, aujourd‘hui auprès d’un public plus large, avec ma conviction que l’alliance de la nature et de l’humain sont à la base de notre bien-être global personnel et collectif.
 
- 
-
 #### Mon approche
 
 Parce que chaque personne/animal est unique, chaque naturopathe et chaque consultation sont uniques. Chacun apporte à la formation de naturopathe issue des enseignements d’Hippocrate, ses origines, sa sensibilité, son tempérament, ses expériences professionnelles et personnelles, ...
 
 Mon approche est préventive, éducative et globale mais surtout personnalisée : je considère que nous sommes tous différents et que chaque problème est unique. En abordant la naturopathie en collectivité, je considère également la spécificité de chaque établissement, ses points forts et ceux à améliorer, ses besoins, ses priorités à l’instant donné car, tout évolue : notre situation et nos besoins. Avec cela, une solution unique est proposée, avec une stratégie et un suivi dans la durée.
-
- 
 
 #### Mon parcours
 
@@ -40,8 +36,6 @@ Mon approche est préventive, éducative et globale mais surtout personnalisée 
 * 
   * Membre adhérant du syndicat des professionnels de la naturopathie, de l’APNF
 
- 
-
 #### Mes « outils » préférés parmi la multitude des techniques naturopathiques :
 
 Ils associent la rigueur de ma formation scientifique et médicale à l’apport de la nature :
@@ -56,12 +50,10 @@ Ils associent la rigueur de ma formation scientifique et médicale à l’apport
 * {{< hl-text couleur3 >}}L’auriculothérapie{{< /hl-text >}} : pour son efficacité et sa facilité d'application  ;
 * {{< hl-text couleur3 >}}La réflexologie plantaire{{< /hl-text >}} : bien-être et/ou intégrer dans les cures naturopathiques ;
 * {{< hl-text couleur3 >}}La cohérence cardiaque{{< /hl-text >}} : afin de rééquilibrer notre système nerveux ;
-*  {{< hl-text couleur3 >}}EFT, kinésiologie, ...{{< /hl-text >}}: techniques de thérapies brèves afin de réconcilier corps et esprit ;
+* {{< hl-text couleur3 >}}EFT, kinésiologie, ...{{< /hl-text >}}: techniques de thérapies brèves afin de réconcilier corps et esprit ;
 * {{< hl-text couleur3 >}}...{{< /hl-text >}}
 
   {{< hl-text couleur3 >}}Telles des notes sont judicieusement assemblées pour composer un morceau de musique, ces « outils » naturels sont choisis et combinés afin de trouver ensemble le cheminement qui vous correspond.{{< /hl-text >}}
-
- 
 
 #### Mes sujets de prédilection :
 
