@@ -2,7 +2,7 @@
 categories = ["prestation"]
 date = 2020-07-01T23:00:00Z
 description = ""
-image = "/images/img_4025.jpg"
+image = "/images/img_7192.jpg"
 tags = ["nathuropathie", "consultation", "animaux", " prestation", "animaux domestiques", "naturopathie pour animaux"]
 title = "Consultation nathuropathique pour animaux domestiques"
 type = "post"
