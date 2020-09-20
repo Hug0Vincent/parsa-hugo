@@ -2,7 +2,7 @@
 categories = ["tarif"]
 date = 2020-07-09T22:00:00Z
 description = "Description des tarifs."
-image = "/images/img_1457.jpg"
+image = "/images/img_9190.jpg"
 tags = ["nathuropathie", "tarif"]
 title = "Prestations et tarifs"
 type = "post"
