@@ -11,9 +11,9 @@ weight = 7
 +++
 > « Là où se trouve les pieds commence le voyage » Lao Tseu
 
-##### Qu'est-ce que la réflexologie plantaire 
+##### Qu'est-ce que la réflexologie plantaire
 
-La réflexologie plantaire est une méthode dans laquelle des zones spécifiques des pieds dites « zones réflexes » sont massées d’une manière particulière, déclenchant des réactions d’auto-guérison, de régulation dans le reste du corps et un rééquilibrage neuro-endocrinien. 
+La réflexologie plantaire est une méthode dans laquelle des zones spécifiques des pieds dites « zones réflexes » sont massées d’une manière particulière, déclenchant des réactions d’auto-guérison, de régulation dans le reste du corps et un rééquilibrage neuro-endocrinien.
 
 Grâce à une cartographie détaillée, il est possible d’agir sur un organe particulier.
 
@@ -23,10 +23,12 @@ Grâce à une cartographie détaillée, il est possible d’agir sur un organe p
 * {{< hl-text couleur3 >}}Soulage les douleurs{{< /hl-text >}} : le massage des zones réflexes soulage rapidement la plupart des symptômes douloureux fonctionnels ;
 * {{< hl-text couleur3 >}}Stimule les organes internes{{< /hl-text >}} : le massage des zones réflexes régule les grandes fonctions de l’organisme (respiration, digestion, élimination, sécrétions hormonales, ...) ;
 * {{< hl-text couleur3 >}}Prévient la maladie{{< /hl-text >}} : par une action sur les différentes fonctions du système nerveux et sur le système endocrinien, elle permet de renforcer le système immunitaire ;
-*  {{< hl-text couleur3 >}}Permet de soutenir une élimination des toxines du corps{{< /hl-text >}} ;
-*  {{< hl-text couleur3 >}}... {{< /hl-text >}}
+* {{< hl-text couleur3 >}}Permet de soutenir une élimination des toxines du corps{{< /hl-text >}} ;
+* {{< hl-text couleur3 >}}... {{< /hl-text >}}
 
-  Comme tout « outil » proposé lors des consultations naturopathiques, la réflexologie plantaire repose sur une approche globale de la personne.
+![](/images/img_4949.jpg)
+
+Comme tout « outil » proposé lors des consultations naturopathiques, la réflexologie plantaire repose sur une approche globale de la personne.
 
 ##### Prestations :
 
