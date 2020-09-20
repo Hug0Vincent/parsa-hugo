@@ -29,13 +29,15 @@ La disparition naturelle des symptômes est la conséquence de la régénératio
 * De mettre en place un plan d'action avec un objectif précis (cure, utilisations des outils naturopathiques),
 * D’amener la personne à une compréhension de son fonctionnement et à une autonomie dans la gestion de sa santé.
 
+                                 ![](/images/img_5585.jpg)
+
 Nous sommes les propres acteurs de notre santé et de notre bien être.
 
 ##### Les "outils" naturopathiques
 
 Pour aider à retrouver, maintenir santé, harmonie et bien-être le naturopathe s’appuie sur un choix raisonné parmi les 10 techniques naturopathiques, véritable « boîte à outils », qui permettent de construire ensemble un plan adapté :
 
-######  - L’alimentation ou hygiène nutritionnelle,
+###### - L’alimentation ou hygiène nutritionnelle,
 
 ###### - La psychologie ou l’hygiène neuro-psychique,
 
@@ -48,6 +50,8 @@ Pour aider à retrouver, maintenir santé, harmonie et bien-être le naturopathe
 ###### - La réflexologie,
 
 ###### - ...
+
+                                ![](/images/masonary-post/post-1.jpg)
 
 Au terme de chaque consultation, un programme d’hygiène vital est remis ou envoyé.
 
