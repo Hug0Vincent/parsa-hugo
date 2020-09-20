@@ -32,7 +32,7 @@ Comme pour l’humain, nous chercherons l’origine des maux afin d’agir sur e
 * **Une complémentarité avec le suivi vétérinaire** et les traitements allopathiques prescrits ;
 * De la **bienveillance**, de la **patience** et du **respect**.
 
-                              ![](/images/img_8184.jpg)
+![](/images/img_8184.jpg)
 
 ##### Les moyens :
 
