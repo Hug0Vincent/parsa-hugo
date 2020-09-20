@@ -2,7 +2,7 @@
 categories = ["prestation"]
 date = 2020-07-03T22:00:00Z
 description = ""
-image = "/images/img_3591.jpg"
+image = "/images/img_4732.jpg"
 tags = ["nathuropathie", "prestation", "aromathérapie", "huiles essentielles", "consultation"]
 title = "La consultation en aromatherapie"
 type = "post"
@@ -28,6 +28,8 @@ L’aromathérapie peut être utilisée :
 En tenant compte de toutes les précautions, l’aromathérapie est extrêmement interessante.
 
 Dans tous les cas, la prescription aromatique qu’elle soit associée à une consultation en naturopathie ou lors d’une consultation spécialisée en aromathérapie qu’elle soit conseillée à titre individuel ou dans un cadre collectif, sera toujours **personnalisée** en fonction de l’individu (ou du groupe d’individus), de ses problématiques, de son environnement, de sa vie en général, de sa situation émotionnelle, ... à l’instant T.
+
+                                   ![](/images/img_4615.jpg)
 
 ##### Prestations :
 
