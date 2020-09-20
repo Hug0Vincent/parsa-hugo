@@ -2,7 +2,7 @@
 categories = ["prestation"]
 date = 2020-07-06T22:00:00Z
 description = ""
-image = "/images/img_8021.jpg"
+image = "/images/img_9258.jpg"
 tags = ["consultation", "auriculothérapie", "réflexologie auriculaire", "prsetation", "réflexologie"]
 title = "L'auriculothérapie"
 type = "post"
