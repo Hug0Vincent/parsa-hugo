@@ -5,7 +5,6 @@ description: This is meta description
 image: "/images/img_7173.jpg"
 
 ---
-
 #### Qui suis-je ?
 
 Une enfance en contact avec la nature et les animaux m’a apportée la compréhension des éléments naturels et cette vocation de faire du soin des animaux mon métier.
@@ -54,9 +53,9 @@ Ils associent la rigueur de ma formation scientifique et médicale à l’apport
 * {{< hl-text couleur3 >}}EFT, kinésiologie, ...{{< /hl-text >}}: techniques de thérapies brèves afin de réconcilier corps et esprit ;
 * {{< hl-text couleur3 >}}...{{< /hl-text >}}
 
-![](/images/464-2.jpg)
-
 {{< hl-text couleur3 >}}Telles des notes sont judicieusement assemblées pour composer un morceau de musique, ces « outils » naturels sont choisis et combinés afin de trouver ensemble le cheminement qui vous correspond.{{< /hl-text >}}
+
+![](/images/464-3.jpg)
 
 #### Mes sujets de prédilection :
 
