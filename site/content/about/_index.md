@@ -2,12 +2,10 @@
 title: À propos
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
-image: img_7173
+image: ''
 
 ---
-![](/images/img_7173.jpg)
-
-#### Qui suis-je ?
+#### ![](/images/img_7173.jpg)Qui suis-je ?
 
 Une enfance en contact avec la nature et les animaux m’a apportée la compréhension des éléments naturels et cette vocation de faire du soin des animaux mon métier.
 
