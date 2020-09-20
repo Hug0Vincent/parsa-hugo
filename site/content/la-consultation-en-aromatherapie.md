@@ -29,7 +29,7 @@ En tenant compte de toutes les précautions, l’aromathérapie est extrêmement
 
 Dans tous les cas, la prescription aromatique qu’elle soit associée à une consultation en naturopathie ou lors d’une consultation spécialisée en aromathérapie qu’elle soit conseillée à titre individuel ou dans un cadre collectif, sera toujours **personnalisée** en fonction de l’individu (ou du groupe d’individus), de ses problématiques, de son environnement, de sa vie en général, de sa situation émotionnelle, ... à l’instant T.
 
-                                   ![](/images/img_4615.jpg)
+![](/images/img_4615.jpg)
 
 ##### Prestations :
 
