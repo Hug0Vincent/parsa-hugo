@@ -51,7 +51,7 @@ Pour aider à retrouver, maintenir santé, harmonie et bien-être le naturopathe
 
 ###### - ...
 
-                                ![](/images/masonary-post/post-1.jpg)
+![](/images/masonary-post/post-1.jpg)
 
 Au terme de chaque consultation, un programme d’hygiène vital est remis ou envoyé.
 
