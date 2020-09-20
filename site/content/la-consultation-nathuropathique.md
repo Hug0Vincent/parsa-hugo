@@ -29,7 +29,7 @@ La disparition naturelle des symptômes est la conséquence de la régénératio
 * De mettre en place un plan d'action avec un objectif précis (cure, utilisations des outils naturopathiques),
 * D’amener la personne à une compréhension de son fonctionnement et à une autonomie dans la gestion de sa santé.
 
-                                 ![](/images/img_5585.jpg)
+![](/images/img_5585.jpg)
 
 Nous sommes les propres acteurs de notre santé et de notre bien être.
 
