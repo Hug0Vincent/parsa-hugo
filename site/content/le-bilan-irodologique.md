@@ -2,7 +2,7 @@
 categories = ["prestation"]
 date = 2020-07-02T22:00:00Z
 description = ""
-image = "/images/thibaud-d.jpg"
+image = "/images/jean-d-jpeg.jpg"
 tags = ["nathuropathie", "consultation", "iridologie", "bilan iridologique", "yeux", "prestation"]
 title = "Le bilan irodologique"
 type = "post"
