@@ -2,7 +2,7 @@
 categories = ["prestation"]
 date = 2020-07-01T23:00:00Z
 description = ""
-image = "/images/img_4025.jpg"
+image = "/images/img_7192.jpg"
 tags = ["nathuropathie", "consultation", "animaux", " prestation", "animaux domestiques", "naturopathie pour animaux"]
 title = "Consultation nathuropathique pour animaux domestiques"
 type = "post"
@@ -32,6 +32,8 @@ Comme pour l’humain, nous chercherons l’origine des maux afin d’agir sur e
 * **Une complémentarité avec le suivi vétérinaire** et les traitements allopathiques prescrits ;
 * De la **bienveillance**, de la **patience** et du **respect**.
 
+![](/images/img_8184.jpg)
+
 ##### Les moyens :
 
 * Un entretien qui prend en compte l’animal, son tempérament, son histoire, son historique médical, son environnement, la famille entière,
@@ -46,6 +48,8 @@ Comme pour l’humain, nous chercherons l’origine des maux afin d’agir sur e
 * Des conseils en parallèle du suivi médical chez votre vétérinaire.
 
 Je ne réalise aucun diagnostic ni manipulation physique et ne prescris aucun traitement médical. La consultation naturopathique ne se substitue pas à une consultation vétérinaire. Les conseils prodigués ne supposent en aucun cas l’arrêt d’un traitement mis en place par un vétérinaire ni ne remplace le suivi habituel de votre animal chez son vétérinaire référent.
+
+![](/images/img_2063.jpg)
 
 ##### Tarifs :
 

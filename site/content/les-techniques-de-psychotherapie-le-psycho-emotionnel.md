@@ -2,7 +2,7 @@
 categories = ["prestation"]
 date = 2020-07-08T23:00:00Z
 description = ""
-image = "/images/img_7842.jpg"
+image = "/images/img_4962.jpg"
 tags = ["nathuropathie", "consultation", "techniques psycho-émotionnelles", " psychologie", "EFT", "cohérence cardiaque", "kinésiologie", "fleurs de Bach"]
 title = "Les Techniques de psychotherapie : le psycho-emotionnel"
 type = "post"
@@ -13,25 +13,27 @@ weight = 8
 
 ##### L’EFT (Emotional Freedom Techniques)
 
-L’EFT est une technique psycho-corporelle dans laquelle on stimule certains points d’acupuncture avec les doigts en prononçant des phrases bien sélectionnées : elle utilise ainsi le corps (« je stimule mon système énergétique ») et l’esprit (« je me concentre sur mon problème »). 
+L’EFT est une technique psycho-corporelle dans laquelle on stimule certains points d’acupuncture avec les doigts en prononçant des phrases bien sélectionnées : elle utilise ainsi le corps (« je stimule mon système énergétique ») et l’esprit (« je me concentre sur mon problème »).
 
 Cette association **permet de libérer rapidement des émotions négatives qui se sont ancrées à la suite d’événements perturbants dans le passé et de reprogrammer le système nerveux.**
 
-L’EFT est efficace dans de nombreuses situations : colère, angoisse, chagrin, peur, manque de confiance en soi, timidité, stress, culpabilité, manque d’énergie, dépendance, traumatisme, douleurs, ... 
+L’EFT est efficace dans de nombreuses situations : colère, angoisse, chagrin, peur, manque de confiance en soi, timidité, stress, culpabilité, manque d’énergie, dépendance, traumatisme, douleurs, ...
 
 En tapotant sur un circuit de 9 points principaux, points d’entrée et de sorties des méridiens de l’acupuncture, on exprime ce que l'on ressent tout en acceptant pleinement que notre être ne se limite pas à cette facette de nous. Ainsi, nous procédons à une libération tout en douceur.
 
-##### La cohérence cardiaque : 
+##### La cohérence cardiaque :
 
-**C'est un état d'harmonie des fonctions vitales induit par un rythme respiratoire particulier** : état optimal dans lequel le coeur, l'esprit et les émotions sont alignés et synchronisés. 
+**C'est un état d'harmonie des fonctions vitales induit par un rythme respiratoire particulier** : état optimal dans lequel le coeur, l'esprit et les émotions sont alignés et synchronisés.
 
 Physiologiquement les systèmes immunitaires, hormonaux et nerveux fonctionnent de manière coordonnée et harmonieuse.
 
 Technique respiratoire très simple à réaliser et à mettre en oeuvre, elle peut être pratiquée par tout le monde, n’importe où et ne prend que quelques minutes par jour.
 
+![](/images/095-1.jpg)
+
 ##### Les élixirs floraux de Bach
 
-La technique des fleurs de Bach est une approche globale de l’être. Mis au point dans les années 30 par le médecin homéopathe Edward Bach, qui considérait que chaque émotion négative pouvait se transformer en maladie, chacun des 38 élixirs floraux de Bach répond à un état d’esprit particulier (peur, solitude, découragement, incertitude, ...) et vise au rééquilibrage émotionnel. 
+La technique des fleurs de Bach est une approche globale de l’être. Mis au point dans les années 30 par le médecin homéopathe Edward Bach, qui considérait que chaque émotion négative pouvait se transformer en maladie, chacun des 38 élixirs floraux de Bach répond à un état d’esprit particulier (peur, solitude, découragement, incertitude, ...) et vise au rééquilibrage émotionnel.
 
 **Le naturopathe procède à un bilan émotionnel personnalisé, afin de confectionner un mélange d’élixirs approprié.**
 
