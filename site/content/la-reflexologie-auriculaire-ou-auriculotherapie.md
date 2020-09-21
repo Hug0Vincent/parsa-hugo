@@ -9,7 +9,7 @@ type = "post"
 weight = 6
 
 +++
-> « La science, c’est étonnement de ce que les choses sont ce qu’elles sont » Aristote
+> « La science, c’est l'étonnement de ce que les choses sont ce qu’elles sont » Aristote
 
 ##### Qu'est-ce que l'auriculothérapie
 
