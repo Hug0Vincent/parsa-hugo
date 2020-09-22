@@ -58,9 +58,7 @@ Ils associent la rigueur de ma formation scientifique et médicale à l’apport
 * 
 * 
 
-![](/images/464-5.jpg)
-
-* 
+![](/images/464-6.jpg)
 
 #### Mes sujets de prédilection :
 
