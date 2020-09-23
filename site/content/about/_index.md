@@ -2,7 +2,7 @@
 title: À propos
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
-image: "/images/img_7173.jpg"
+image: "/images/image-1.jpg"
 
 ---
 #### Qui suis-je ?
@@ -55,7 +55,10 @@ Ils associent la rigueur de ma formation scientifique et médicale à l’apport
 
 {{< hl-text couleur3 >}}Telles des notes sont judicieusement assemblées pour composer un morceau de musique, ces « outils » naturels sont choisis et combinés afin de trouver ensemble le cheminement qui vous correspond.{{< /hl-text >}}
 
-![](/images/464-3.jpg)
+* 
+* 
+
+![](/images/464-6.jpg)
 
 #### Mes sujets de prédilection :
 

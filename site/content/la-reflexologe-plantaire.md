@@ -4,7 +4,7 @@ date = 2020-07-07T22:00:00Z
 description = ""
 image = "/images/img_5615.jpg"
 tags = ["nathuropathie", "prestation", "réflexologie", "réflexologie plantaire"]
-title = "La reflexologie plantaire"
+title = "La réflexologie plantaire"
 type = "post"
 weight = 7
 
