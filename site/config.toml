@@ -19,7 +19,7 @@ weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "Catherine Namèche  -  72, Le Village35190 - La Chapelle au Filtzméens"
+address = "Catherine Namèche  -  72, Le Village   -     35190 La Chapelle aux Filtzméens"
 author = "Catherine Namèche"
 author_image = "images/banner-img.png"
 bio = "La naturopathie - L’Homme - L’Animal\nPrenez votre santé et celle de vos animaux domestiques en main."
